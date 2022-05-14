@@ -1,0 +1,1628 @@
+{
+  "data": {
+    "title": "Data current as of Jan 17, 2022",
+    "totalRecords": 230,
+    "symbolChangeHistoryTable": {
+      "headers": {
+        "companyName": "Company Name",
+        "oldSymbol": "Old Symbol",
+        "newSymbol": "New Symbol",
+        "effective": "Effective Date"
+      },
+      "rows": [
+        {
+          "companyName": "Archer Aviation Inc. Class A Common Stock",
+          "oldSymbol": "ACIC",
+          "newSymbol": "ACHR",
+          "effective": "09/17/2021",
+          "url": "/market-activity/stocks/achr"
+        },
+        {
+          "companyName": "MarketWise, Inc. Class A Common Stock",
+          "oldSymbol": "ACND",
+          "newSymbol": "MKTW",
+          "effective": "07/22/2021",
+          "url": "/market-activity/stocks/mktw"
+        },
+        {
+          "companyName": "MarketWise, Inc. Warrant",
+          "oldSymbol": "ACND.W",
+          "newSymbol": "MKTWW",
+          "effective": "07/22/2021",
+          "url": "/market-activity/stocks/mktww"
+        },
+        {
+          "companyName": "Xtrackers Emerging Markets Carbon Reduction and Climate Improv",
+          "oldSymbol": "ACSG",
+          "newSymbol": "EMCR",
+          "effective": "08/18/2021",
+          "url": "/market-activity/stocks/emcr"
+        },
+        {
+          "companyName": "Hagerty, Inc. Class A Common Stock",
+          "oldSymbol": "ADF",
+          "newSymbol": "HGTY",
+          "effective": "12/03/2021",
+          "url": "/market-activity/stocks/hgty"
+        },
+        {
+          "companyName": "Humacyte, Inc. Common Stock",
+          "oldSymbol": "AHAC",
+          "newSymbol": "HUMA",
+          "effective": "08/27/2021",
+          "url": "/market-activity/stocks/huma"
+        },
+        {
+          "companyName": "Humacyte, Inc. Warrant",
+          "oldSymbol": "AHACW",
+          "newSymbol": "HUMAW",
+          "effective": "08/27/2021",
+          "url": "/market-activity/stocks/humaw"
+        },
+        {
+          "companyName": "Cazoo Group Ltd Class A Ordinary Shares",
+          "oldSymbol": "AJAX",
+          "newSymbol": "CZOO",
+          "effective": "08/27/2021",
+          "url": "/market-activity/stocks/czoo"
+        },
+        {
+          "companyName": "Jasper Therapeutics, Inc. Common Stock",
+          "oldSymbol": "AMHC",
+          "newSymbol": "JSPR",
+          "effective": "09/27/2021",
+          "url": "/market-activity/stocks/jspr"
+        },
+        {
+          "companyName": "Japer Therapeutics, Inc. Warrants",
+          "oldSymbol": "AMHCW",
+          "newSymbol": "JSPRW",
+          "effective": "09/27/2021",
+          "url": "/market-activity/stocks/jsprw"
+        },
+        {
+          "companyName": "Stryve Foods, Inc. Class A Common Stock",
+          "oldSymbol": "ANDA",
+          "newSymbol": "SNAX",
+          "effective": "07/21/2021",
+          "url": "/market-activity/stocks/snax"
+        },
+        {
+          "companyName": "Stryve Foods, Inc. Warrant",
+          "oldSymbol": "ANDAW",
+          "newSymbol": "SNAXW",
+          "effective": "07/21/2021",
+          "url": "/market-activity/stocks/snaxw"
+        },
+        {
+          "companyName": "Markforged Holding Corporation Common Stock",
+          "oldSymbol": "AONE",
+          "newSymbol": "MKFG",
+          "effective": "07/15/2021",
+          "url": "/market-activity/stocks/mkfg"
+        },
+        {
+          "companyName": "Quoin Pharmaceuticals, Ltd. American Depositary Shares",
+          "oldSymbol": "APOP",
+          "newSymbol": "QNRX",
+          "effective": "10/29/2021",
+          "url": "/market-activity/stocks/qnrx"
+        },
+        {
+          "companyName": "Aadi Bioscience, Inc. Common Stock",
+          "oldSymbol": "ARPO",
+          "newSymbol": "AADI",
+          "effective": "08/27/2021",
+          "url": "/market-activity/stocks/aadi"
+        },
+        {
+          "companyName": "Heliogen, Inc. Common Stock",
+          "oldSymbol": "ATHN",
+          "newSymbol": "HLGN",
+          "effective": "12/31/2021",
+          "url": "/market-activity/stocks/hlgn"
+        },
+        {
+          "companyName": "Fathom Digital Manufacturing Corporation Class A Common Stock",
+          "oldSymbol": "ATMR",
+          "newSymbol": "FATH",
+          "effective": "12/27/2021",
+          "url": "/market-activity/stocks/fath"
+        },
+        {
+          "companyName": "First Wave BioPharma, Inc. Common Stock",
+          "oldSymbol": "AZRX",
+          "newSymbol": "FWBI",
+          "effective": "09/22/2021",
+          "url": "/market-activity/stocks/fwbi"
+        },
+        {
+          "companyName": "Civitas Resources, Inc. Common Stock",
+          "oldSymbol": "BCEI",
+          "newSymbol": "CIVI",
+          "effective": "11/02/2021",
+          "url": "/market-activity/stocks/civi"
+        },
+        {
+          "companyName": "Tango Therapeutics, Inc.",
+          "oldSymbol": "BCTG",
+          "newSymbol": "TNGX",
+          "effective": "08/11/2021",
+          "url": "/market-activity/stocks/tngx"
+        },
+        {
+          "companyName": "SAB Biotherapeutics, Inc. Common Stock",
+          "oldSymbol": "BCYP",
+          "newSymbol": "SABS",
+          "effective": "10/25/2021",
+          "url": "/market-activity/stocks/sabs"
+        },
+        {
+          "companyName": "SAB Biotherapeutics, Inc. Warrant",
+          "oldSymbol": "BCYPW",
+          "newSymbol": "SABSW",
+          "effective": "10/25/2021",
+          "url": "/market-activity/stocks/sabsw"
+        },
+        {
+          "companyName": "Renovare Environmental, Inc.  Common Stock",
+          "oldSymbol": "BHTG",
+          "newSymbol": "RENO",
+          "effective": "12/13/2021",
+          "url": "/market-activity/stocks/reno"
+        },
+        {
+          "companyName": "Clarus Therapeutics Holdings, Inc. Common Stock",
+          "oldSymbol": "BLUW",
+          "newSymbol": "CRXT",
+          "effective": "09/10/2021",
+          "url": "/market-activity/stocks/crxt"
+        },
+        {
+          "companyName": "Clarus Therapeutics Holdings, Inc. Warrants",
+          "oldSymbol": "BLUWW",
+          "newSymbol": "CRXTW",
+          "effective": "09/10/2021",
+          "url": "/market-activity/stocks/crxtw"
+        },
+        {
+          "companyName": "Azenta, Inc.",
+          "oldSymbol": "BRKS",
+          "newSymbol": "AZTA",
+          "effective": "12/01/2021",
+          "url": "/market-activity/stocks/azta"
+        },
+        {
+          "companyName": "Valkyrie Bitcoin Strategy ETF",
+          "oldSymbol": "BTFD",
+          "newSymbol": "BTF",
+          "effective": "10/21/2021",
+          "url": "/market-activity/stocks/btf"
+        },
+        {
+          "companyName": "Cadence Bank Common Stock",
+          "oldSymbol": "BXS",
+          "newSymbol": "CADE",
+          "effective": "10/29/2021",
+          "url": "/market-activity/stocks/cade"
+        },
+        {
+          "companyName": "Doma Holdings, Inc. Common Stock",
+          "oldSymbol": "CAP",
+          "newSymbol": "DOMA",
+          "effective": "07/29/2021",
+          "url": "/market-activity/stocks/doma"
+        },
+        {
+          "companyName": "Astria Therapeutics, Inc. Common Stock",
+          "oldSymbol": "CATB",
+          "newSymbol": "ATXS",
+          "effective": "09/09/2021",
+          "url": "/market-activity/stocks/atxs"
+        },
+        {
+          "companyName": "Altus Power, Inc. Class A Common Stock",
+          "oldSymbol": "CBAH",
+          "newSymbol": "AMPS",
+          "effective": "12/10/2021",
+          "url": "/market-activity/stocks/amps"
+        },
+        {
+          "companyName": "Statera Biopharma, Inc. Common Stock",
+          "oldSymbol": "CBLI",
+          "newSymbol": "STAB",
+          "effective": "09/01/2021",
+          "url": "/market-activity/stocks/stab"
+        },
+        {
+          "companyName": "Lucid Group, Inc. Common Stock",
+          "oldSymbol": "CCIV",
+          "newSymbol": "LCID",
+          "effective": "07/26/2021",
+          "url": "/market-activity/stocks/lcid"
+        },
+        {
+          "companyName": "Consensus Cloud Solutions, Inc. Common Stock",
+          "oldSymbol": "CCSIV",
+          "newSymbol": "CCSI",
+          "effective": "10/08/2021",
+          "url": "/market-activity/stocks/ccsi"
+        },
+        {
+          "companyName": "Avalo Therapeutics, Inc. Common Stock",
+          "oldSymbol": "CERC",
+          "newSymbol": "AVTX",
+          "effective": "08/26/2021",
+          "url": "/market-activity/stocks/avtx"
+        },
+        {
+          "companyName": "AEye, Inc. Class A Common Stock",
+          "oldSymbol": "CFAC",
+          "newSymbol": "LIDR",
+          "effective": "08/18/2021",
+          "url": "/market-activity/stocks/lidr"
+        },
+        {
+          "companyName": "AEye, Inc. Warrant",
+          "oldSymbol": "CFACW",
+          "newSymbol": "LIDRW",
+          "effective": "08/18/2021",
+          "url": "/market-activity/stocks/lidrw"
+        },
+        {
+          "companyName": "Renovacor, Inc. Common Stock",
+          "oldSymbol": "CHAQ",
+          "newSymbol": "RCOR",
+          "effective": "09/03/2021",
+          "url": "/market-activity/stocks/rcor"
+        },
+        {
+          "companyName": "Surrozen, Inc. Common Stock",
+          "oldSymbol": "CHFW",
+          "newSymbol": "SRZN",
+          "effective": "08/12/2021",
+          "url": "/market-activity/stocks/srzn"
+        },
+        {
+          "companyName": "Surrozen, Inc. Warrant",
+          "oldSymbol": "CHFW.W",
+          "newSymbol": "SRZNW",
+          "effective": "08/12/2021",
+          "url": "/market-activity/stocks/srznw"
+        },
+        {
+          "companyName": "Veris Residential, Inc. Common Stock",
+          "oldSymbol": "CLI",
+          "newSymbol": "VRE",
+          "effective": "12/10/2021",
+          "url": "/market-activity/stocks/vre"
+        },
+        {
+          "companyName": "SomaLogic, Inc. Class A Common Stock",
+          "oldSymbol": "CMII",
+          "newSymbol": "SLGC",
+          "effective": "09/02/2021",
+          "url": "/market-activity/stocks/slgc"
+        },
+        {
+          "companyName": "SomaLogic, Inc. Warrant",
+          "oldSymbol": "CMIIW",
+          "newSymbol": "SLGCW",
+          "effective": "09/02/2021",
+          "url": "/market-activity/stocks/slgcw"
+        },
+        {
+          "companyName": "Sema4 Holdings Corp. Class A Common Stock",
+          "oldSymbol": "CMLF",
+          "newSymbol": "SMFR",
+          "effective": "07/23/2021",
+          "url": "/market-activity/stocks/smfr"
+        },
+        {
+          "companyName": "Sema4 Holdings Corp. Warrant",
+          "oldSymbol": "CMLFW",
+          "newSymbol": "SMFRW",
+          "effective": "07/23/2021",
+          "url": "/market-activity/stocks/smfrw"
+        },
+        {
+          "companyName": "EQRx, Inc.  Common Stock",
+          "oldSymbol": "CMLT",
+          "newSymbol": "EQRX",
+          "effective": "12/20/2021",
+          "url": "/market-activity/stocks/eqrx"
+        },
+        {
+          "companyName": "EQRx, Inc. Warrant",
+          "oldSymbol": "CMLTW",
+          "newSymbol": "EQRXW",
+          "effective": "12/20/2021",
+          "url": "/market-activity/stocks/eqrxw"
+        },
+        {
+          "companyName": "Coterra Energy Inc. Common Stock",
+          "oldSymbol": "COG",
+          "newSymbol": "CTRA",
+          "effective": "10/04/2021",
+          "url": "/market-activity/stocks/ctra"
+        },
+        {
+          "companyName": "Gelesis Holdings, Inc.",
+          "oldSymbol": "CPSR",
+          "newSymbol": "GLS",
+          "effective": "01/14/2022",
+          "url": "/market-activity/stocks/gls"
+        },
+        {
+          "companyName": "Wolfspeed, Inc. Common Stock",
+          "oldSymbol": "CREE",
+          "newSymbol": "WOLF",
+          "effective": "10/04/2021",
+          "url": "/market-activity/stocks/wolf"
+        },
+        {
+          "companyName": "Sonida Senior Living, Inc. Common Stock",
+          "oldSymbol": "CSU",
+          "newSymbol": "SNDA",
+          "effective": "11/15/2021",
+          "url": "/market-activity/stocks/snda"
+        },
+        {
+          "companyName": "CompoSecure, Inc. Class A Common Stock",
+          "oldSymbol": "DBDR",
+          "newSymbol": "CMPO",
+          "effective": "12/28/2021",
+          "url": "/market-activity/stocks/cmpo"
+        },
+        {
+          "companyName": "CompoSecure, Inc. Warrant",
+          "oldSymbol": "DBDRW",
+          "newSymbol": "CMPOW",
+          "effective": "12/28/2021",
+          "url": "/market-activity/stocks/cmpow"
+        },
+        {
+          "companyName": "Hyzon Motors Inc. Class A Common Stock",
+          "oldSymbol": "DCRB",
+          "newSymbol": "HYZN",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/hyzn"
+        },
+        {
+          "companyName": "Hyzon Motors Inc. Warrants",
+          "oldSymbol": "DCRBW",
+          "newSymbol": "HYZNW",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/hyznw"
+        },
+        {
+          "companyName": "Solid Power, Inc. Class A Common Stock",
+          "oldSymbol": "DCRC",
+          "newSymbol": "SLDP",
+          "effective": "12/09/2021",
+          "url": "/market-activity/stocks/sldp"
+        },
+        {
+          "companyName": "Solid Power, Inc. Warrant",
+          "oldSymbol": "DCRCW",
+          "newSymbol": "SLDPW",
+          "effective": "12/09/2021",
+          "url": "/market-activity/stocks/sldpw"
+        },
+        {
+          "companyName": "Vicarious Surgical Inc. Class A Common Stock",
+          "oldSymbol": "DEH",
+          "newSymbol": "RBOT",
+          "effective": "09/20/2021",
+          "url": "/market-activity/stocks/rbot"
+        },
+        {
+          "companyName": "IronNet, Inc. Common Stock",
+          "oldSymbol": "DFNS",
+          "newSymbol": "IRNT",
+          "effective": "08/27/2021",
+          "url": "/market-activity/stocks/irnt"
+        },
+        {
+          "companyName": "The Oncology Institute, Inc. Common Stock",
+          "oldSymbol": "DFPH",
+          "newSymbol": "TOI",
+          "effective": "11/15/2021",
+          "url": "/market-activity/stocks/toi"
+        },
+        {
+          "companyName": "The Oncology Institute, Inc. Warrant",
+          "oldSymbol": "DFPHW",
+          "newSymbol": "TOIIW",
+          "effective": "11/15/2021",
+          "url": "/market-activity/stocks/toiiw"
+        },
+        {
+          "companyName": "CCC Intelligent Solutions Holdings Inc. Common Stock",
+          "oldSymbol": "DGNR",
+          "newSymbol": "CCCS",
+          "effective": "08/02/2021",
+          "url": "/market-activity/stocks/cccs"
+        },
+        {
+          "companyName": "Cvent Holding Corp. Common Stock",
+          "oldSymbol": "DGNS",
+          "newSymbol": "CVT",
+          "effective": "12/09/2021",
+          "url": "/market-activity/stocks/cvt"
+        },
+        {
+          "companyName": "IonQ, Inc. Common Stock",
+          "oldSymbol": "DMYI",
+          "newSymbol": "IONQ",
+          "effective": "10/01/2021",
+          "url": "/market-activity/stocks/ionq"
+        },
+        {
+          "companyName": "Planet Labs PBC Class A Common Stock",
+          "oldSymbol": "DMYQ",
+          "newSymbol": "PL",
+          "effective": "12/08/2021",
+          "url": "/market-activity/stocks/pl"
+        },
+        {
+          "companyName": "Douglas Elliman Inc. Common Stock",
+          "oldSymbol": "DOUG.V",
+          "newSymbol": "DOUG",
+          "effective": "12/30/2021",
+          "url": "/market-activity/stocks/doug"
+        },
+        {
+          "companyName": "BitNile Holdings, Inc. Common Stock",
+          "oldSymbol": "DPW",
+          "newSymbol": "NILE",
+          "effective": "12/13/2021",
+          "url": "/market-activity/stocks/nile"
+        },
+        {
+          "companyName": "Altamira Therapeutics Ltd. Common Shares 0.01 SF (Bermuda)",
+          "oldSymbol": "EARS",
+          "newSymbol": "CYTO",
+          "effective": "07/26/2021",
+          "url": "/market-activity/stocks/cyto"
+        },
+        {
+          "companyName": "Holley Inc. Common Stock",
+          "oldSymbol": "EMPW",
+          "newSymbol": "HLLY",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/hlly"
+        },
+        {
+          "companyName": "BuzzFeed, Inc. Class A Common Stock",
+          "oldSymbol": "ENFA",
+          "newSymbol": "BZFD",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/bzfd"
+        },
+        {
+          "companyName": "BuzzFeed, Inc. Warrant",
+          "oldSymbol": "ENFAW",
+          "newSymbol": "BZFDW",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/bzfdw"
+        },
+        {
+          "companyName": "Ethan Allen Interiors Inc. Common Stock",
+          "oldSymbol": "ETH",
+          "newSymbol": "ETD",
+          "effective": "08/16/2021",
+          "url": "/market-activity/stocks/etd"
+        },
+        {
+          "companyName": "Kiora Pharmaceuticals, Inc.  Common Stock",
+          "oldSymbol": "EYEG",
+          "newSymbol": "KPRX",
+          "effective": "11/08/2021",
+          "url": "/market-activity/stocks/kprx"
+        },
+        {
+          "companyName": "Mandiant, Inc. Common Stock",
+          "oldSymbol": "FEYE",
+          "newSymbol": "MNDT",
+          "effective": "10/05/2021",
+          "url": "/market-activity/stocks/mndt"
+        },
+        {
+          "companyName": "OppFi Inc. Class A Common Stock",
+          "oldSymbol": "FGNA",
+          "newSymbol": "OPFI",
+          "effective": "07/21/2021",
+          "url": "/market-activity/stocks/opfi"
+        },
+        {
+          "companyName": "Expro Group Holdings N.V. Common Stock",
+          "oldSymbol": "FI",
+          "newSymbol": "XPRO",
+          "effective": "10/04/2021",
+          "url": "/market-activity/stocks/xpro"
+        },
+        {
+          "companyName": "P3 Health Partners Inc. Class A Common Stock",
+          "oldSymbol": "FORE",
+          "newSymbol": "PIII",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/piii"
+        },
+        {
+          "companyName": "P3 Health Partners Inc. Warrant",
+          "oldSymbol": "FOREW",
+          "newSymbol": "PIIIW",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/piiiw"
+        },
+        {
+          "companyName": "Pardes Biosciences, Inc. Common Stock",
+          "oldSymbol": "FSII",
+          "newSymbol": "PRDS",
+          "effective": "12/27/2021",
+          "url": "/market-activity/stocks/prds"
+        },
+        {
+          "companyName": "MoneyLion Inc. Class A Common Stock",
+          "oldSymbol": "FUSE",
+          "newSymbol": "ML",
+          "effective": "09/23/2021",
+          "url": "/market-activity/stocks/ml"
+        },
+        {
+          "companyName": "SmartRent, Inc. Class A Common Stock",
+          "oldSymbol": "FWAA",
+          "newSymbol": "SMRT",
+          "effective": "08/25/2021",
+          "url": "/market-activity/stocks/smrt"
+        },
+        {
+          "companyName": "AdvisorShares North Square McKee ESG Core Bond ETF",
+          "oldSymbol": "FWDB",
+          "newSymbol": "MENV",
+          "effective": "11/01/2021",
+          "url": "/market-activity/stocks/menv"
+        },
+        {
+          "companyName": "Global Indemnity Group, LLC 7.875% Subordinated Notes due 2047",
+          "oldSymbol": "GBLIL",
+          "newSymbol": "GBLL",
+          "effective": "01/03/2022",
+          "url": "/market-activity/stocks/gbll"
+        },
+        {
+          "companyName": "Getnet Adquirencia e Servicos para Meios de Pagamento S.A. American Depositary Shares",
+          "oldSymbol": "GETV",
+          "newSymbol": "GET",
+          "effective": "10/22/2021",
+          "url": "/market-activity/stocks/get"
+        },
+        {
+          "companyName": "Getnet Adquirencia e Servicos para Meios de Pagamento S.A. American Depositary Shares",
+          "oldSymbol": "GETVV",
+          "newSymbol": "GET",
+          "effective": "10/22/2021",
+          "url": "/market-activity/stocks/get"
+        },
+        {
+          "companyName": "Matterport, Inc. Class A Common Stock",
+          "oldSymbol": "GHVI",
+          "newSymbol": "MTTR",
+          "effective": "07/23/2021",
+          "url": "/market-activity/stocks/mttr"
+        },
+        {
+          "companyName": "Matterport, Inc. Warrant",
+          "oldSymbol": "GHVIW",
+          "newSymbol": "MTTRW",
+          "effective": "07/23/2021",
+          "url": "/market-activity/stocks/mttrw"
+        },
+        {
+          "companyName": "Shapeways Holdings, Inc. Common Stock",
+          "oldSymbol": "GLEO",
+          "newSymbol": "SHPW",
+          "effective": "09/30/2021",
+          "url": "/market-activity/stocks/shpw"
+        },
+        {
+          "companyName": "Redwire Corporation Common Stock",
+          "oldSymbol": "GNPK",
+          "newSymbol": "RDW",
+          "effective": "09/03/2021",
+          "url": "/market-activity/stocks/rdw"
+        },
+        {
+          "companyName": "VanEck Morningstar Global Wide Moat ETF",
+          "oldSymbol": "GOAT",
+          "newSymbol": "MOTG",
+          "effective": "12/10/2021",
+          "url": "/market-activity/stocks/motg"
+        },
+        {
+          "companyName": "GoGreen Investments Corporation Units, each consisting of one Class A ordinary share and one half of one redeemable warrant",
+          "oldSymbol": "GOGN",
+          "newSymbol": "GOGN.U",
+          "effective": "10/21/2021",
+          "url": "/market-activity/stocks/gogn.u"
+        },
+        {
+          "companyName": "Helbiz, Inc. Class A Common stock",
+          "oldSymbol": "GRNV",
+          "newSymbol": "HLBZ",
+          "effective": "08/16/2021",
+          "url": "/market-activity/stocks/hlbz"
+        },
+        {
+          "companyName": "Helbiz, Inc. Warrant",
+          "oldSymbol": "GRNVW",
+          "newSymbol": "HLBZW",
+          "effective": "08/16/2021",
+          "url": "/market-activity/stocks/hlbzw"
+        },
+        {
+          "companyName": "Mirion Technologies, Inc. Class A Common Stock",
+          "oldSymbol": "GSAH",
+          "newSymbol": "MIR",
+          "effective": "10/21/2021",
+          "url": "/market-activity/stocks/mir"
+        },
+        {
+          "companyName": "Cipher Mining Inc. Common Stock",
+          "oldSymbol": "GWAC",
+          "newSymbol": "CIFR",
+          "effective": "08/30/2021",
+          "url": "/market-activity/stocks/cifr"
+        },
+        {
+          "companyName": "Cipher Mining Inc. Warrant",
+          "oldSymbol": "GWACW",
+          "newSymbol": "CIFRW",
+          "effective": "08/30/2021",
+          "url": "/market-activity/stocks/cifrw"
+        },
+        {
+          "companyName": "Global X MSCI Norway ETF",
+          "oldSymbol": "GXF",
+          "newSymbol": "NORW",
+          "effective": "11/01/2021",
+          "url": "/market-activity/stocks/norw"
+        },
+        {
+          "companyName": "Celularity Inc. Class A Common Stock",
+          "oldSymbol": "GXGX",
+          "newSymbol": "CELU",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/celu"
+        },
+        {
+          "companyName": "Celularity Inc. Warrant",
+          "oldSymbol": "GXGXW",
+          "newSymbol": "CELUW",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/celuw"
+        },
+        {
+          "companyName": "GXO Logistics, Inc. Common Stock ",
+          "oldSymbol": "GXO.V",
+          "newSymbol": "GXO",
+          "effective": "08/02/2021",
+          "url": "/market-activity/stocks/gxo"
+        },
+        {
+          "companyName": "Hyperfine, Inc. Class A Common Stock",
+          "oldSymbol": "HCAQ",
+          "newSymbol": "HYPR",
+          "effective": "12/23/2021",
+          "url": "/market-activity/stocks/hypr"
+        },
+        {
+          "companyName": "INNOVATE Corp. Common Stock",
+          "oldSymbol": "HCHC",
+          "newSymbol": "VATE",
+          "effective": "09/20/2021",
+          "url": "/market-activity/stocks/vate"
+        },
+        {
+          "companyName": "enVVeno Medical Corporation Common Stock",
+          "oldSymbol": "HJLI",
+          "newSymbol": "NVNO",
+          "effective": "10/01/2021",
+          "url": "/market-activity/stocks/nvno"
+        },
+        {
+          "companyName": "enVVeno Medical Corporation Warrants",
+          "oldSymbol": "HJLIW",
+          "newSymbol": "NVNOW",
+          "effective": "10/01/2021",
+          "url": "/market-activity/stocks/nvnow"
+        },
+        {
+          "companyName": "Hive Blockchain Technologies Ltd. Common Shares",
+          "oldSymbol": "HVBT",
+          "newSymbol": "HIVE",
+          "effective": "09/14/2021",
+          "url": "/market-activity/stocks/hive"
+        },
+        {
+          "companyName": "Akso Health Group ADS",
+          "oldSymbol": "HX",
+          "newSymbol": "AHG",
+          "effective": "12/16/2021",
+          "url": "/market-activity/stocks/ahg"
+        },
+        {
+          "companyName": "Innovid Corp. Common Stock",
+          "oldSymbol": "IACB",
+          "newSymbol": "CTV",
+          "effective": "12/01/2021",
+          "url": "/market-activity/stocks/ctv"
+        },
+        {
+          "companyName": "WaveDancer, Inc. Common Stock",
+          "oldSymbol": "IAIC",
+          "newSymbol": "WAVD",
+          "effective": "12/17/2021",
+          "url": "/market-activity/stocks/wavd"
+        },
+        {
+          "companyName": "TeraWulf Inc. Common Stock",
+          "oldSymbol": "IKNX",
+          "newSymbol": "WULF",
+          "effective": "12/14/2021",
+          "url": "/market-activity/stocks/wulf"
+        },
+        {
+          "companyName": "Imperial Petroleum Inc. Common Shares",
+          "oldSymbol": "IMPPV",
+          "newSymbol": "IMPP",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/impp"
+        },
+        {
+          "companyName": "Imperial Petroleum Inc. 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares",
+          "oldSymbol": "IMPTV",
+          "newSymbol": "IMPPP",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/imppp"
+        },
+        {
+          "companyName": "CoreCard Corporation Common Stock",
+          "oldSymbol": "INS",
+          "newSymbol": "CCRD",
+          "effective": "12/29/2021",
+          "url": "/market-activity/stocks/ccrd"
+        },
+        {
+          "companyName": "Autoscope Technologies Corporation Common Stock",
+          "oldSymbol": "ISNS",
+          "newSymbol": "AATC",
+          "effective": "07/21/2021",
+          "url": "/market-activity/stocks/aatc"
+        },
+        {
+          "companyName": "Bowlero Corp. Class A Common Stock",
+          "oldSymbol": "ISOS",
+          "newSymbol": "BOWL",
+          "effective": "12/16/2021",
+          "url": "/market-activity/stocks/bowl"
+        },
+        {
+          "companyName": "Ziff Davis, Inc. Common Stock",
+          "oldSymbol": "JCOM",
+          "newSymbol": "ZD",
+          "effective": "10/08/2021",
+          "url": "/market-activity/stocks/zd"
+        },
+        {
+          "companyName": "Jackson Financial Inc. Class A Common Stock ",
+          "oldSymbol": "JXN.V",
+          "newSymbol": "JXN",
+          "effective": "09/20/2021",
+          "url": "/market-activity/stocks/jxn"
+        },
+        {
+          "companyName": "JX Luxventure Limited Common Stock",
+          "oldSymbol": "KBSF",
+          "newSymbol": "LLL",
+          "effective": "10/13/2021",
+          "url": "/market-activity/stocks/lll"
+        },
+        {
+          "companyName": "KraneShares Asia Pacific High Income Bond ETF",
+          "oldSymbol": "KCCB",
+          "newSymbol": "KHYB",
+          "effective": "08/02/2021",
+          "url": "/market-activity/stocks/khyb"
+        },
+        {
+          "companyName": "Kyndryl Holdings, Inc. Common Stock",
+          "oldSymbol": "KD.V",
+          "newSymbol": "KD",
+          "effective": "11/04/2021",
+          "url": "/market-activity/stocks/kd"
+        },
+        {
+          "companyName": "Babylon Holdings Limited Class A Ordinary Shares",
+          "oldSymbol": "KURI",
+          "newSymbol": "BBLN",
+          "effective": "10/22/2021",
+          "url": "/market-activity/stocks/bbln"
+        },
+        {
+          "companyName": "Nextdoor Holdings, Inc. Class A Common Stock",
+          "oldSymbol": "KVSB",
+          "newSymbol": "KIND",
+          "effective": "11/08/2021",
+          "url": "/market-activity/stocks/kind"
+        },
+        {
+          "companyName": "Bath & Body Works, Inc.",
+          "oldSymbol": "LB",
+          "newSymbol": "BBWI",
+          "effective": "08/03/2021",
+          "url": "/market-activity/stocks/bbwi"
+        },
+        {
+          "companyName": "Hillman Solutions Corp. Common Stock",
+          "oldSymbol": "LCY",
+          "newSymbol": "HLMN",
+          "effective": "07/15/2021",
+          "url": "/market-activity/stocks/hlmn"
+        },
+        {
+          "companyName": "Local Bounti Corporation Common Stock",
+          "oldSymbol": "LIII",
+          "newSymbol": "LOCL",
+          "effective": "11/22/2021",
+          "url": "/market-activity/stocks/locl"
+        },
+        {
+          "companyName": "AgileThought, Inc. Class A Common Stock",
+          "oldSymbol": "LIVK",
+          "newSymbol": "AGIL",
+          "effective": "08/24/2021",
+          "url": "/market-activity/stocks/agil"
+        },
+        {
+          "companyName": "AgileThought, Inc. Warrant",
+          "oldSymbol": "LIVKW",
+          "newSymbol": "AGILW",
+          "effective": "08/24/2021",
+          "url": "/market-activity/stocks/agilw"
+        },
+        {
+          "companyName": "LiveOne, Inc. Common Stock",
+          "oldSymbol": "LIVX",
+          "newSymbol": "LVO",
+          "effective": "10/06/2021",
+          "url": "/market-activity/stocks/lvo"
+        },
+        {
+          "companyName": "Navitas Semiconductor Corporation Common Stock",
+          "oldSymbol": "LOKB",
+          "newSymbol": "NVTS",
+          "effective": "10/20/2021",
+          "url": "/market-activity/stocks/nvts"
+        },
+        {
+          "companyName": "Navitas Semiconductor Corporation Warrants",
+          "oldSymbol": "LOKB.W",
+          "newSymbol": "NVTSW",
+          "effective": "10/20/2021",
+          "url": "/market-activity/stocks/nvtsw"
+        },
+        {
+          "companyName": "Science 37 Holdings, Inc. Common Stock",
+          "oldSymbol": "LSAQ",
+          "newSymbol": "SNCE",
+          "effective": "10/07/2021",
+          "url": "/market-activity/stocks/snce"
+        },
+        {
+          "companyName": "eFFECTOR Therapeutics, Inc. Common Stock",
+          "oldSymbol": "LWAC",
+          "newSymbol": "EFTR",
+          "effective": "08/26/2021",
+          "url": "/market-activity/stocks/eftr"
+        },
+        {
+          "companyName": "eFFECTOR Therapeutics, Inc. Warrant",
+          "oldSymbol": "LWACW",
+          "newSymbol": "EFTRW",
+          "effective": "08/26/2021",
+          "url": "/market-activity/stocks/eftrw"
+        },
+        {
+          "companyName": "Loyalty Ventures Inc. Common Stock",
+          "oldSymbol": "LYLTV",
+          "newSymbol": "LYLT",
+          "effective": "11/08/2021",
+          "url": "/market-activity/stocks/lylt"
+        },
+        {
+          "companyName": "AdTheorent Holding Company, Inc. Common Stock",
+          "oldSymbol": "MACQ",
+          "newSymbol": "ADTH",
+          "effective": "12/23/2021",
+          "url": "/market-activity/stocks/adth"
+        },
+        {
+          "companyName": "AdTheorent Holding Company, Inc. Warrants",
+          "oldSymbol": "MACQW",
+          "newSymbol": "ADTHW",
+          "effective": "12/23/2021",
+          "url": "/market-activity/stocks/adthw"
+        },
+        {
+          "companyName": "Senstar Technologies Ltd. Ordinary Shares",
+          "oldSymbol": "MAGS",
+          "newSymbol": "SNT",
+          "effective": "09/30/2021",
+          "url": "/market-activity/stocks/snt"
+        },
+        {
+          "companyName": "Better Therapeutics, Inc. Common Stock",
+          "oldSymbol": "MCAD",
+          "newSymbol": "BTTX",
+          "effective": "10/29/2021",
+          "url": "/market-activity/stocks/bttx"
+        },
+        {
+          "companyName": "Stagwell Inc. Class A Common Stock",
+          "oldSymbol": "MDCA",
+          "newSymbol": "STGW",
+          "effective": "08/03/2021",
+          "url": "/market-activity/stocks/stgw"
+        },
+        {
+          "companyName": "Motley Fool Small-Cap Growth ETF",
+          "oldSymbol": "MFMS",
+          "newSymbol": "TMFS",
+          "effective": "12/31/2021",
+          "url": "/market-activity/stocks/tmfs"
+        },
+        {
+          "companyName": "Soluna Holdings, Inc. Common Stock",
+          "oldSymbol": "MKTY",
+          "newSymbol": "SLNH",
+          "effective": "11/04/2021",
+          "url": "/market-activity/stocks/slnh"
+        },
+        {
+          "companyName": "Soluna Holdings, Inc 9.0% Series A Cumulative Perpetual Preferred Stock ",
+          "oldSymbol": "MKTYP",
+          "newSymbol": "SLNHP",
+          "effective": "11/04/2021",
+          "url": "/market-activity/stocks/slnhp"
+        },
+        {
+          "companyName": "MillerKnoll, Inc. Common Stock",
+          "oldSymbol": "MLHR",
+          "newSymbol": "MLKN",
+          "effective": "11/01/2021",
+          "url": "/market-activity/stocks/mlkn"
+        },
+        {
+          "companyName": "Peraso Inc. Common Stock",
+          "oldSymbol": "MOSY",
+          "newSymbol": "PRSO",
+          "effective": "12/20/2021",
+          "url": "/market-activity/stocks/prso"
+        },
+        {
+          "companyName": "DocGo Inc. Common Stock",
+          "oldSymbol": "MOTN",
+          "newSymbol": "DCGO",
+          "effective": "11/08/2021",
+          "url": "/market-activity/stocks/dcgo"
+        },
+        {
+          "companyName": "DocGo Inc. Warrants",
+          "oldSymbol": "MOTNW",
+          "newSymbol": "DCGOW",
+          "effective": "11/08/2021",
+          "url": "/market-activity/stocks/dcgow"
+        },
+        {
+          "companyName": "Enjoy Technology, Inc. Common Stock",
+          "oldSymbol": "MRAC",
+          "newSymbol": "ENJY",
+          "effective": "10/18/2021",
+          "url": "/market-activity/stocks/enjy"
+        },
+        {
+          "companyName": "Enjoy Technology, Inc. Warrant",
+          "oldSymbol": "MRACW",
+          "newSymbol": "ENJYW",
+          "effective": "10/18/2021",
+          "url": "/market-activity/stocks/enjyw"
+        },
+        {
+          "companyName": "SharpLink Gaming Ltd. Ordinary Shares",
+          "oldSymbol": "MTSL",
+          "newSymbol": "SBET",
+          "effective": "07/28/2021",
+          "url": "/market-activity/stocks/sbet"
+        },
+        {
+          "companyName": "N-able, Inc. Common Stock",
+          "oldSymbol": "NABL.V",
+          "newSymbol": "NABL",
+          "effective": "07/20/2021",
+          "url": "/market-activity/stocks/nabl"
+        },
+        {
+          "companyName": "Cenntro Electric Group Limited Ordinary Shares",
+          "oldSymbol": "NAKD",
+          "newSymbol": "CENN",
+          "effective": "01/14/2022",
+          "url": "/market-activity/stocks/cenn"
+        },
+        {
+          "companyName": "Airspan Networks Holdings Inc. Common Stock",
+          "oldSymbol": "NBA",
+          "newSymbol": "MIMO",
+          "effective": "08/16/2021",
+          "url": "/market-activity/stocks/mimo"
+        },
+        {
+          "companyName": "Rover Group, Inc. Class A Common Stock",
+          "oldSymbol": "NEBC",
+          "newSymbol": "ROVR",
+          "effective": "08/02/2021",
+          "url": "/market-activity/stocks/rovr"
+        },
+        {
+          "companyName": "Mullen Automotive, Inc. Common Stock",
+          "oldSymbol": "NETE",
+          "newSymbol": "MULN",
+          "effective": "11/05/2021",
+          "url": "/market-activity/stocks/muln"
+        },
+        {
+          "companyName": "Embark Technology, Inc. Common Stock",
+          "oldSymbol": "NGAB",
+          "newSymbol": "EMBK",
+          "effective": "11/11/2021",
+          "url": "/market-activity/stocks/embk"
+        },
+        {
+          "companyName": "Embark Technology, Inc. Warrants",
+          "oldSymbol": "NGAB.W",
+          "newSymbol": "EMBKW",
+          "effective": "11/11/2021",
+          "url": "/market-activity/stocks/embkw"
+        },
+        {
+          "companyName": "Xos, Inc. Common Stock",
+          "oldSymbol": "NGAC",
+          "newSymbol": "XOS",
+          "effective": "08/20/2021",
+          "url": "/market-activity/stocks/xos"
+        },
+        {
+          "companyName": "Xos, Inc. Warrants",
+          "oldSymbol": "NGACW",
+          "newSymbol": "XOSWW",
+          "effective": "08/20/2021",
+          "url": "/market-activity/stocks/xosww"
+        },
+        {
+          "companyName": "Virgin Orbit Holdings, Inc. Common Stock",
+          "oldSymbol": "NGCA",
+          "newSymbol": "VORB",
+          "effective": "12/30/2021",
+          "url": "/market-activity/stocks/vorb"
+        },
+        {
+          "companyName": "Virgin Orbit Holdings, Inc. Warrant",
+          "oldSymbol": "NGCAW",
+          "newSymbol": "VORBW",
+          "effective": "12/30/2021",
+          "url": "/market-activity/stocks/vorbw"
+        },
+        {
+          "companyName": "NexPoint Diversified Real Estate Trust Common Stock",
+          "oldSymbol": "NHF",
+          "newSymbol": "NXDT",
+          "effective": "11/08/2021",
+          "url": "/market-activity/stocks/nxdt"
+        },
+        {
+          "companyName": "Evolv Technologies Holdings, Inc. Class A Common Stock",
+          "oldSymbol": "NHIC",
+          "newSymbol": "EVLV",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/evlv"
+        },
+        {
+          "companyName": "Evolv Technologies Holdings, Inc. Warrant",
+          "oldSymbol": "NHICW",
+          "newSymbol": "EVLVW",
+          "effective": "07/19/2021",
+          "url": "/market-activity/stocks/evlvw"
+        },
+        {
+          "companyName": "Spire Global, Inc. Class A Common Stock",
+          "oldSymbol": "NSH",
+          "newSymbol": "SPIR",
+          "effective": "08/17/2021",
+          "url": "/market-activity/stocks/spir"
+        },
+        {
+          "companyName": "TrueShares Structured Outcome (November) ETF",
+          "oldSymbol": "NVMZ",
+          "newSymbol": "NOVZ",
+          "effective": "08/09/2021",
+          "url": "/market-activity/stocks/novz"
+        },
+        {
+          "companyName": "Orion Office REIT Inc. Common Stock",
+          "oldSymbol": "ONL.V",
+          "newSymbol": "ONL",
+          "effective": "11/15/2021",
+          "url": "/market-activity/stocks/onl"
+        },
+        {
+          "companyName": "Nerdy Inc. Class A Common Stock",
+          "oldSymbol": "PACE",
+          "newSymbol": "NRDY",
+          "effective": "09/21/2021",
+          "url": "/market-activity/stocks/nrdy"
+        },
+        {
+          "companyName": "Revelation Biosciences, Inc. Common Stock",
+          "oldSymbol": "PAIC",
+          "newSymbol": "REVB",
+          "effective": "01/11/2022",
+          "url": "/market-activity/stocks/revb"
+        },
+        {
+          "companyName": "Revelation Biosciences, Inc. Unit",
+          "oldSymbol": "PAICU",
+          "newSymbol": "REVBU",
+          "effective": "01/11/2022",
+          "url": "/market-activity/stocks/revbu"
+        },
+        {
+          "companyName": "Revelation Biosciences, Inc. Warrant",
+          "oldSymbol": "PAICW",
+          "newSymbol": "REVBW",
+          "effective": "01/11/2022",
+          "url": "/market-activity/stocks/revbw"
+        },
+        {
+          "companyName": "Ecovyst Inc. Common Stock",
+          "oldSymbol": "PQG",
+          "newSymbol": "ECVT",
+          "effective": "08/03/2021",
+          "url": "/market-activity/stocks/ecvt"
+        },
+        {
+          "companyName": "Faraday Future Intelligent Electric Inc. Common Stock",
+          "oldSymbol": "PSAC",
+          "newSymbol": "FFIE",
+          "effective": "07/22/2021",
+          "url": "/market-activity/stocks/ffie"
+        },
+        {
+          "companyName": "Faraday Future Intelligent Electric Inc. Warrant",
+          "oldSymbol": "PSACW",
+          "newSymbol": "FFIEW",
+          "effective": "07/22/2021",
+          "url": "/market-activity/stocks/ffiew"
+        },
+        {
+          "companyName": "Ranger Oil Corporation Class A Common Stock",
+          "oldSymbol": "PVAC",
+          "newSymbol": "ROCC",
+          "effective": "10/18/2021",
+          "url": "/market-activity/stocks/rocc"
+        },
+        {
+          "companyName": "WisdomTree U.S. Value Fund",
+          "oldSymbol": "QSY",
+          "newSymbol": "WTV",
+          "effective": "01/03/2022",
+          "url": "/market-activity/stocks/wtv"
+        },
+        {
+          "companyName": "Berkshire Grey, Inc. Class A Common Stock",
+          "oldSymbol": "RAAC",
+          "newSymbol": "BGRY",
+          "effective": "07/22/2021",
+          "url": "/market-activity/stocks/bgry"
+        },
+        {
+          "companyName": "Berkshire Grey, Inc. Warrant",
+          "oldSymbol": "RAACW",
+          "newSymbol": "BGRYW",
+          "effective": "07/22/2021",
+          "url": "/market-activity/stocks/bgryw"
+        },
+        {
+          "companyName": "Regal Rexnord Corporation Common Stock",
+          "oldSymbol": "RBC",
+          "newSymbol": "RRX",
+          "effective": "10/05/2021",
+          "url": "/market-activity/stocks/rrx"
+        },
+        {
+          "companyName": "RCF Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+          "oldSymbol": "RCF.U",
+          "newSymbol": "RCFA.U",
+          "effective": "11/11/2021",
+          "url": "/market-activity/stocks/rcfa.u"
+        },
+        {
+          "companyName": "Archaea Energy Inc. Class A Common Stock",
+          "oldSymbol": "RICE",
+          "newSymbol": "LFG",
+          "effective": "09/16/2021",
+          "url": "/market-activity/stocks/lfg"
+        },
+        {
+          "companyName": "Seven Hills Realty Trust Common Stock",
+          "oldSymbol": "RMRM",
+          "newSymbol": "SEVN",
+          "effective": "10/01/2021",
+          "url": "/market-activity/stocks/sevn"
+        },
+        {
+          "companyName": "Reservoir Media, Inc. Warrant",
+          "oldSymbol": "ROCCW",
+          "newSymbol": "RSVRW",
+          "effective": "07/29/2021",
+          "url": "/market-activity/stocks/rsvrw"
+        },
+        {
+          "companyName": "Sarcos Technology and Robotics Corporation Common Stock",
+          "oldSymbol": "ROT",
+          "newSymbol": "STRC",
+          "effective": "09/27/2021",
+          "url": "/market-activity/stocks/strc"
+        },
+        {
+          "companyName": "Sarcos Technology and Robotics Corporation Warrants",
+          "oldSymbol": "ROT.W",
+          "newSymbol": "STRCW",
+          "effective": "09/27/2021",
+          "url": "/market-activity/stocks/strcw"
+        },
+        {
+          "companyName": "Enovix Corporation Common Stock",
+          "oldSymbol": "RSVA",
+          "newSymbol": "ENVX",
+          "effective": "07/15/2021",
+          "url": "/market-activity/stocks/envx"
+        },
+        {
+          "companyName": "Joby Aviation, Inc. Common Stock",
+          "oldSymbol": "RTP",
+          "newSymbol": "JOBY",
+          "effective": "08/11/2021",
+          "url": "/market-activity/stocks/joby"
+        },
+        {
+          "companyName": "Aurora Innovation, Inc. Class A Common Stock",
+          "oldSymbol": "RTPY",
+          "newSymbol": "AUR",
+          "effective": "11/04/2021",
+          "url": "/market-activity/stocks/aur"
+        },
+        {
+          "companyName": "Aurora Innovation, Inc. Warrant",
+          "oldSymbol": "RTPYW",
+          "newSymbol": "AUROW",
+          "effective": "11/04/2021",
+          "url": "/market-activity/stocks/aurow"
+        },
+        {
+          "companyName": "Hippo Holdings Inc. Common Stock",
+          "oldSymbol": "RTPZ",
+          "newSymbol": "HIPO",
+          "effective": "08/03/2021",
+          "url": "/market-activity/stocks/hipo"
+        },
+        {
+          "companyName": "Zurn Water Solutions Corporation Common Stock",
+          "oldSymbol": "RXN",
+          "newSymbol": "ZWS",
+          "effective": "10/05/2021",
+          "url": "/market-activity/stocks/zws"
+        },
+        {
+          "companyName": "Owlet, Inc. Class A Common Stock",
+          "oldSymbol": "SBG",
+          "newSymbol": "OWLT",
+          "effective": "07/16/2021",
+          "url": "/market-activity/stocks/owlt"
+        },
+        {
+          "companyName": "Great Elm Group, Inc. Common Stock",
+          "oldSymbol": "SBX",
+          "newSymbol": "GEG",
+          "effective": "08/16/2021",
+          "url": "/market-activity/stocks/geg"
+        },
+        {
+          "companyName": "BlackSky Technology Inc. Class A Common Stock",
+          "oldSymbol": "SFTW",
+          "newSymbol": "BKSY",
+          "effective": "09/10/2021",
+          "url": "/market-activity/stocks/bksy"
+        },
+        {
+          "companyName": "Redbox Entertainment Inc. Class A Common Stock",
+          "oldSymbol": "SGAM",
+          "newSymbol": "RDBX",
+          "effective": "10/25/2021",
+          "url": "/market-activity/stocks/rdbx"
+        },
+        {
+          "companyName": "Redbox Entertainment Inc. Warrant",
+          "oldSymbol": "SGAMW",
+          "newSymbol": "RDBXW",
+          "effective": "10/25/2021",
+          "url": "/market-activity/stocks/rdbxw"
+        },
+        {
+          "companyName": "TROOPS, Inc. Ordinary Shares ",
+          "oldSymbol": "SGOC",
+          "newSymbol": "TROO",
+          "effective": "11/16/2021",
+          "url": "/market-activity/stocks/troo"
+        },
+        {
+          "companyName": "Singularity Future Technology Ltd. Common Stock",
+          "oldSymbol": "SINO",
+          "newSymbol": "SGLY",
+          "effective": "01/07/2022",
+          "url": "/market-activity/stocks/sgly"
+        },
+        {
+          "companyName": "Sylvamo Corporation Common Stock",
+          "oldSymbol": "SLVM.V",
+          "newSymbol": "SLVM",
+          "effective": "10/01/2021",
+          "url": "/market-activity/stocks/slvm"
+        },
+        {
+          "companyName": "Volta, Inc. Class A Common Stock",
+          "oldSymbol": "SNPR",
+          "newSymbol": "VLTA",
+          "effective": "08/27/2021",
+          "url": "/market-activity/stocks/vlta"
+        },
+        {
+          "companyName": "TMC the metals company Inc. Common Stock",
+          "oldSymbol": "SOAC",
+          "newSymbol": "TMC",
+          "effective": "09/10/2021",
+          "url": "/market-activity/stocks/tmc"
+        },
+        {
+          "companyName": "TMC the metals company Inc. Warrants",
+          "oldSymbol": "SOAC.W",
+          "newSymbol": "TMCWW",
+          "effective": "09/10/2021",
+          "url": "/market-activity/stocks/tmcww"
+        },
+        {
+          "companyName": "Velo3D, Inc. Common Stock",
+          "oldSymbol": "SPFR",
+          "newSymbol": "VLD",
+          "effective": "09/30/2021",
+          "url": "/market-activity/stocks/vld"
+        },
+        {
+          "companyName": "Via Renewables, Inc. Class A Common Stock",
+          "oldSymbol": "SPKE",
+          "newSymbol": "VIA",
+          "effective": "08/10/2021",
+          "url": "/market-activity/stocks/via"
+        },
+        {
+          "companyName": "Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",
+          "oldSymbol": "SPKEP",
+          "newSymbol": "VIASP",
+          "effective": "08/10/2021",
+          "url": "/market-activity/stocks/viasp"
+        },
+        {
+          "companyName": "Offerpad Solutions Inc. Class A Common Stock",
+          "oldSymbol": "SPNV",
+          "newSymbol": "OPAD",
+          "effective": "09/02/2021",
+          "url": "/market-activity/stocks/opad"
+        },
+        {
+          "companyName": "Momentus Inc. Class A Common Stock",
+          "oldSymbol": "SRAC",
+          "newSymbol": "MNTS",
+          "effective": "08/13/2021",
+          "url": "/market-activity/stocks/mnts"
+        },
+        {
+          "companyName": "Momentus Inc. Warrant",
+          "oldSymbol": "SRACW",
+          "newSymbol": "MNTSW",
+          "effective": "08/13/2021",
+          "url": "/market-activity/stocks/mntsw"
+        },
+        {
+          "companyName": "Ginkgo Bioworks Holdings, Inc. Class A Common Stock",
+          "oldSymbol": "SRNG",
+          "newSymbol": "DNA",
+          "effective": "09/17/2021",
+          "url": "/market-activity/stocks/dna"
+        },
+        {
+          "companyName": "Benson Hill, Inc. Common Stock",
+          "oldSymbol": "STPC",
+          "newSymbol": "BHIL",
+          "effective": "09/30/2021",
+          "url": "/market-activity/stocks/bhil"
+        },
+        {
+          "companyName": "ESS Tech, Inc. Common Stock",
+          "oldSymbol": "STWO",
+          "newSymbol": "GWH",
+          "effective": "10/11/2021",
+          "url": "/market-activity/stocks/gwh"
+        },
+        {
+          "companyName": "SmartETFs Sustainable Energy II ETF",
+          "oldSymbol": "SULR",
+          "newSymbol": "SOLR",
+          "effective": "01/03/2022",
+          "url": "/market-activity/stocks/solr"
+        },
+        {
+          "companyName": "Cyxtera Technologies, Inc. Class A Common Stock",
+          "oldSymbol": "SVAC",
+          "newSymbol": "CYXT",
+          "effective": "07/30/2021",
+          "url": "/market-activity/stocks/cyxt"
+        },
+        {
+          "companyName": "Cyxtera Technologies, Inc. Warrant",
+          "oldSymbol": "SVACW",
+          "newSymbol": "CYXTW",
+          "effective": "07/30/2021",
+          "url": "/market-activity/stocks/cyxtw"
+        },
+        {
+          "companyName": "Lottery.com, Inc. Common Stock",
+          "oldSymbol": "TDAC",
+          "newSymbol": "LTRY",
+          "effective": "11/01/2021",
+          "url": "/market-activity/stocks/ltry"
+        },
+        {
+          "companyName": "Lottery.com, Inc. Warrants",
+          "oldSymbol": "TDACW",
+          "newSymbol": "LTRYW",
+          "effective": "11/01/2021",
+          "url": "/market-activity/stocks/ltryw"
+        },
+        {
+          "companyName": "Microvast Holdings, Inc. Common Stock",
+          "oldSymbol": "THCB",
+          "newSymbol": "MVST",
+          "effective": "07/26/2021",
+          "url": "/market-activity/stocks/mvst"
+        },
+        {
+          "companyName": "Microvast Holdings, Inc. Warrants",
+          "oldSymbol": "THCBW",
+          "newSymbol": "MVSTW",
+          "effective": "07/26/2021",
+          "url": "/market-activity/stocks/mvstw"
+        },
+        {
+          "companyName": "Pear Therapeutics, Inc. Class A Common Stock",
+          "oldSymbol": "THMA",
+          "newSymbol": "PEAR",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/pear"
+        },
+        {
+          "companyName": "Pear Therapeutics, Inc. Warrant",
+          "oldSymbol": "THMAW",
+          "newSymbol": "PEARW",
+          "effective": "12/06/2021",
+          "url": "/market-activity/stocks/pearw"
+        },
+        {
+          "companyName": "2seventy bio, Inc. Common Stock ",
+          "oldSymbol": "TSVTV",
+          "newSymbol": "TSVT",
+          "effective": "11/05/2021",
+          "url": "/market-activity/stocks/tsvt"
+        },
+        {
+          "companyName": "Shineco, Inc. Common Stock",
+          "oldSymbol": "TYHT",
+          "newSymbol": "SISI",
+          "effective": "10/18/2021",
+          "url": "/market-activity/stocks/sisi"
+        },
+        {
+          "companyName": "Rocket Lab USA, Inc. Common Stock",
+          "oldSymbol": "VACQ",
+          "newSymbol": "RKLB",
+          "effective": "08/25/2021",
+          "url": "/market-activity/stocks/rklb"
+        },
+        {
+          "companyName": "Rocket Lab USA, Inc. Warrant",
+          "oldSymbol": "VACQW",
+          "newSymbol": "RKLBW",
+          "effective": "08/25/2021",
+          "url": "/market-activity/stocks/rklbw"
+        },
+        {
+          "companyName": "Valkyrie Balance Sheet Opportunities ETF",
+          "oldSymbol": "VIB",
+          "newSymbol": "VBB",
+          "effective": "12/09/2021",
+          "url": "/market-activity/stocks/vbb"
+        },
+        {
+          "companyName": "Bakkt Holdings, Inc. Class A Common Stock",
+          "oldSymbol": "VIH",
+          "newSymbol": "BKKT",
+          "effective": "10/18/2021",
+          "url": "/market-activity/stocks/bkkt"
+        },
+        {
+          "companyName": "TowneBank Common Stock",
+          "oldSymbol": "VIPRO",
+          "newSymbol": "TOWN",
+          "effective": "08/23/2021",
+          "url": "/market-activity/stocks/town"
+        },
+        {
+          "companyName": "Dave Inc. Class A Common Stock",
+          "oldSymbol": "VPCC",
+          "newSymbol": "DAVE",
+          "effective": "01/06/2022",
+          "url": "/market-activity/stocks/dave"
+        },
+        {
+          "companyName": "Dave Inc. Warrants",
+          "oldSymbol": "VPCC.W",
+          "newSymbol": "DAVEW",
+          "effective": "01/06/2022",
+          "url": "/market-activity/stocks/davew"
+        },
+        {
+          "companyName": "Victorias Secret & Co. Common Stock ",
+          "oldSymbol": "VSCO.V",
+          "newSymbol": "VSCO",
+          "effective": "08/03/2021",
+          "url": "/market-activity/stocks/vsco"
+        },
+        {
+          "companyName": "Willis Towers Watson Public Limited Company Ordinary Shares",
+          "oldSymbol": "WLTW",
+          "newSymbol": "WTW",
+          "effective": "01/10/2022",
+          "url": "/market-activity/stocks/wtw"
+        },
+        {
+          "companyName": "Yellowstone Acquisition Company Units",
+          "oldSymbol": "YSACU",
+          "newSymbol": "YSAC.U",
+          "effective": "01/04/2022",
+          "url": "/market-activity/stocks/ysac.u"
+        }
+      ]
+    }
+  },
+  "message": null,
+  "status": { "rCode": 200, "bCodeMessage": null, "developerMessage": null }
+}

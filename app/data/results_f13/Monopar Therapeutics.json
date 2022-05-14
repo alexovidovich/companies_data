@@ -1,0 +1,498 @@
+[
+  {
+    "id": "000104018820000103/infotable.xml",
+    "period_ending": "2019-12-31",
+    "file_date": "2020-02-04",
+    "cik": "0001040188",
+    "shares": 203,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012320001255/form13fInfoTable.xml",
+    "period_ending": "2019-12-31",
+    "file_date": "2020-02-10",
+    "cik": "0000927971",
+    "shares": 13000,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000156761920003551/form13fInfoTable.xml",
+    "period_ending": "2019-12-31",
+    "file_date": "2020-02-14",
+    "cik": "0001387508",
+    "shares": 1510,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542120000215/DetailTableInfo_2019Q4.xml",
+    "period_ending": "2019-12-31",
+    "file_date": "2020-02-14",
+    "cik": "0000895421",
+    "shares": 10632,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000075279820000002/SEC13F_200211.xml",
+    "period_ending": "2019-12-31",
+    "file_date": "2020-02-14",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012320002037/form13fInfoTable.xml",
+    "period_ending": "2019-12-31",
+    "file_date": "2020-02-14",
+    "cik": "0001610520",
+    "shares": 1290,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000100291220000002/Shine.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-04-27",
+    "cik": "0001002912",
+    "shares": 10,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012320003758/form13fInfoTable.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-01",
+    "cik": "0001610520",
+    "shares": 15,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000108636420000038/form13fInfoTable.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-01",
+    "cik": "0001364742",
+    "shares": 2804,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000104018820000109/infotable.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-04",
+    "cik": "0001040188",
+    "shares": 344,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000104018820000113/infotable.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-12",
+    "cik": "0001040188",
+    "shares": 344,
+    "form": "13f-hr/a"
+  },
+  {
+    "id": "000075279820000009/SEC13F_200512.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-13",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000127308720000017/MMLLC.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-14",
+    "cik": "0001273087",
+    "shares": 11505,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000153342120000004/Report_13f_20200331.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-15",
+    "cik": "0001533421",
+    "shares": 68,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542120000376/DetailTableInfo_2020Q1.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-15",
+    "cik": "0000895421",
+    "shares": 3200,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542120000394/DetailTableInfo_2020Q1.xml",
+    "period_ending": "2020-03-31",
+    "file_date": "2020-05-26",
+    "cik": "0000895421",
+    "shares": 3200,
+    "form": "13f-hr/a"
+  },
+  {
+    "id": "000100291220000003/Shine.xml",
+    "period_ending": "2020-06-30",
+    "file_date": "2020-07-29",
+    "cik": "0001002912",
+    "shares": 10,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000075279820000014/SEC13F_200812.xml",
+    "period_ending": "2020-06-30",
+    "file_date": "2020-08-13",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000106299320004019/form13fInfoTable.xml",
+    "period_ending": "2020-06-30",
+    "file_date": "2020-08-14",
+    "cik": "0001512024",
+    "shares": 170,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000125648420000020/ntc-13f-comb-2020-06.xml",
+    "period_ending": "2020-06-30",
+    "file_date": "2020-08-14",
+    "cik": "0000073124",
+    "shares": 49753,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000108636420000070/form13fInfoTable.xml",
+    "period_ending": "2020-06-30",
+    "file_date": "2020-08-14",
+    "cik": "0001364742",
+    "shares": 3632,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542120000454/DetailTableInfo_2020Q2-3.xml",
+    "period_ending": "2020-06-30",
+    "file_date": "2020-08-14",
+    "cik": "0000895421",
+    "shares": 3200,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000100291220000004/Shine1.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-03",
+    "cik": "0001002912",
+    "shares": 10,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000007297120000356/WFC_3Q20.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-05",
+    "cik": "0000072971",
+    "shares": 14,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000142645920000005/form13fInfoTable.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-06",
+    "cik": "0001364742",
+    "shares": 2703,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000075279820000019/SEC13F_201112.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-13",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542120000552/DetailTableInfo_2020Q3.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-13",
+    "cik": "0000895421",
+    "shares": 3200,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000153342120000007/Report_13f_20200930.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-16",
+    "cik": "0001533421",
+    "shares": 4701,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000125648420000021/ntc-13f-comb-2020-09.xml",
+    "period_ending": "2020-09-30",
+    "file_date": "2020-11-16",
+    "cik": "0000073124",
+    "shares": 64748,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000075279821000003/SEC13F_210201.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-02",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000108636421000004/form13fInfoTable.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-05",
+    "cik": "0001364742",
+    "shares": 5391,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000007297121000047/WFC_4Q20.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-09",
+    "cik": "0000072971",
+    "shares": 19,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000125648421000001/ntc-13f-comb-2020-12.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-11",
+    "cik": "0000073124",
+    "shares": 58793,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012321001651/0000950123-21-001651-3074.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-11",
+    "cik": "0001610520",
+    "shares": 952,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000106299321001509/form13fInfoTable.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-16",
+    "cik": "0001512024",
+    "shares": 170,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000153342121000001/Report_13f_20201231.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-16",
+    "cik": "0001533421",
+    "shares": 1404,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542121000261/DetailTableInfo_2020Q4.xml",
+    "period_ending": "2020-12-31",
+    "file_date": "2021-02-16",
+    "cik": "0000895421",
+    "shares": 3200,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000108636421000038/form13fInfoTable.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-07",
+    "cik": "0001364742",
+    "shares": 11229,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000121471721000010/GCMLLCQ1202113F.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-12",
+    "cik": "0001214717",
+    "shares": 26394,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000125648421000018/ntc-13f-comb-2021-03.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-12",
+    "cik": "0000073124",
+    "shares": 36001,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012321005892/0000950123-21-005892-4418.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-12",
+    "cik": "0001610520",
+    "shares": 571,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000075279821000007/SEC13F_210512.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-13",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000007297121000236/13F_1Q21.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-13",
+    "cik": "0000072971",
+    "shares": 19,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000110465921066511/infotable.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-14",
+    "cik": "0000102909",
+    "shares": 45070,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000106299321004685/form13fInfoTable.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-17",
+    "cik": "0001512024",
+    "shares": 170,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000153342121000003/Report_13f_20210331.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-17",
+    "cik": "0001533421",
+    "shares": 2212,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012321007021/0000950123-21-007021-4336.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-17",
+    "cik": "0001423053",
+    "shares": 12479,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000156761921010380/form13fInfoTable.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-17",
+    "cik": "0001000275",
+    "shares": 9130,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542121000363/DetailTableInfo_2021Q1-4.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-17",
+    "cik": "0000895421",
+    "shares": 3200,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000095012321007261/0000950123-21-007261-4724.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-05-21",
+    "cik": "0001423053",
+    "shares": 12479,
+    "form": "13f-hr/a"
+  },
+  {
+    "id": "000168063821000003/13Fparagonwealth.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-07-12",
+    "cik": "0001680638",
+    "shares": 58,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000156761921013701/form13fInfoTable.xml",
+    "period_ending": "2021-03-31",
+    "file_date": "2021-07-20",
+    "cik": "0001000275",
+    "shares": 9130,
+    "form": "13f-hr/a"
+  },
+  {
+    "id": "000108636421000071/form13fInfoTable.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-11",
+    "cik": "0001364742",
+    "shares": 15046,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000121471721000016/GCMLLCQ2202113F.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-13",
+    "cik": "0001214717",
+    "shares": 28761,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000125648421000020/ntc-13f-comb-2021-06.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-13",
+    "cik": "0000073124",
+    "shares": 36106,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000110465921104704/infotable.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-13",
+    "cik": "0000102909",
+    "shares": 97462,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000075279821000011/SEC13F_210812.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-13",
+    "cik": "0000752798",
+    "shares": 0,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000106299321007518/form13fInfoTable.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-16",
+    "cik": "0001512024",
+    "shares": 170,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000007297121000287/13F_2Q21.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-16",
+    "cik": "0000072971",
+    "shares": 27,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000156761921015705/form13fInfoTable.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-16",
+    "cik": "0001000275",
+    "shares": 5130,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542121000453/DetailTableInfo_2021Q2-3.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-16",
+    "cik": "0000895421",
+    "shares": 4000,
+    "form": "13f-hr"
+  },
+  {
+    "id": "000089542121000475/DetailTableInfo_2021Q2.xml",
+    "period_ending": "2021-06-30",
+    "file_date": "2021-08-23",
+    "cik": "0000895421",
+    "shares": 4000,
+    "form": "13f-hr/a"
+  }
+]

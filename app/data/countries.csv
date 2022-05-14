@@ -1,0 +1,252 @@
+"name","ticker","country","cik","new_ticker"
+"NeuroPace","NPCE","United States","0001528287",NULL
+"AstraZeneca","AZN","United Kingdom","0000901832",NULL
+"Eli Lilly and Company","LLY","United States","0000059478",NULL
+"Prelude Therapeutics","PRLD","United States","0001678660",NULL
+"argenx","ARGX","Netherlands","0001697862",NULL
+"Landos Biopharma","LABP","United States","0001785345",NULL
+"Amgen","AMGN","United States","0000318154",NULL
+"GlaxoSmithKline","GSK","United Kingdom","0001131399",NULL
+"Arrowhead Pharmaceuticals","ARWR","United States","0000879407",NULL
+"BioNTech SE","BNTX","Germany","0001776985",NULL
+"Pfizer","PFE","United States","0000078003",NULL
+"Takeda","TAK","Japan","0001395064",NULL
+"Supernus Pharmaceuticals","SUPN","United States","0001356576",NULL
+"Novo Nordisk A/S","NVO","Denmark","0000353278",NULL
+"Vaccinex","VCNX","United States","0001205922",NULL
+"Regeneron Pharmaceuticals","REGN","United States","0000872589",NULL
+"Sanofi","SNY","France","0001121404",NULL
+"Bristol-Myers Squibb","BMY","United States","0000014272",NULL
+"AbbVie","ABBV","United States","0001551152",NULL
+"IDEAYA Biosciences","IDYA","United States","0001676725",NULL
+"Tarsus Pharmaceuticals","TARS","United States","0001819790",NULL
+"Metacrine","MTCR","United States","0001634379",NULL
+"Inspire Medical Systems","INSP","United States","0001609550",NULL
+"Magenta Therapeutics","MGTA","United States","0001690585",NULL
+"CNS Pharmaceuticals","CNSP","United States","0001729427",NULL
+"Mereo BioPharma","MREO","United Kingdom","0001719714",NULL
+"Arcus Biosciences","RCUS","United States","0001724521",NULL
+"CASI Pharmaceuticals","CASI","United States","0000895051",NULL
+"C4 Therapeutics","CCCC","United States","0001662579",NULL
+"Ocular Therapeutix","OCUL","United States","0001393434",NULL
+"Gilead Sciences","GILD","United States","0000882095",NULL
+"Arcutis Biotherapeutics","ARQT","United States","0001787306",NULL
+"MEI Pharma","MEIP","United States","0001262104",NULL
+"Ionis Pharmaceuticals","IONS","United States","0000874015",NULL
+"Pulse Biosciences","PLSE","United States","0001625101",NULL
+"Biogen","BIIB","United States","0000875045",NULL
+"Exelixis","EXEL","United States","0000939767",NULL
+"Rhythm Pharmaceuticals","RYTM","United States","0001649904",NULL
+"Kronos Bio","KRON","United States","0001741830",NULL
+"Theratechnologies","THTX","Canada","0001512717",NULL
+"Galapagos NV","GLPG","Belgium","0001421876",NULL
+"BeiGene","BGNE","Cayman Islands","0001651308",NULL
+"Reata Pharmaceuticals","RETA","United States","0001358762",NULL
+"Calithera Biosciences","CALA","United States","0001496671",NULL
+"Turning Point","TPB","United States","0001290677",NULL
+"Checkmate Pharmaceuticals","CMPI","United States","0001651431",NULL
+"Seagen","SGEN","United States","0001060736",NULL
+"Allogene Therapeutics","ALLO","United States","0001737287",NULL
+"AlloVir","ALVR","United States","0001754068",NULL
+"Gemini Therapeutics","GMTX","United States","0001816736",NULL
+"Arena Pharmaceuticals","ARNA","United States","0001080709",NULL
+"Can-Fite BioPharma","CANF","Israel","0001536196",NULL
+"Clovis Oncology","CLVS","United States","0001466301",NULL
+"Ocuphire Pharma","OCUP","United States","0001228627",NULL
+"Jounce Therapeutics","JNCE","United States","0001640455",NULL
+"Sio Gene Therapies","SIOX","United States","0001636050",NULL
+"Synthetic Biologics","SYN","United States","0000894158",NULL
+"Mirum Pharmaceuticals","MIRM","United States","0001759425",NULL
+"Lexicon Pharmaceuticals","LXRX","United States","0001062822",NULL
+"Karuna Therapeutics","KRTX","United States","0001771917",NULL
+"Arcturus Therapeutics","ARCT","United States","0001768224",NULL
+"Emergent BioSolutions","EBS","United States","0001367644",NULL
+"Annexon","ANNX","United States","0001528115",NULL
+"Eyenovia","EYEN","United States","0001682639",NULL
+"Acutus Medical","AFIB","United States","0001522860",NULL
+"Vanda Pharmaceuticals","VNDA","United States","0001347178",NULL
+"Bellicum Pharmaceuticals","BLCM","United States","0001358403",NULL
+"Precision BioSciences","DTIL","United States","0001357874",NULL
+"Monopar Therapeutics","MNPR","United States","0001645469",NULL
+"Assembly Biosciences","ASMB","United States","0001426800",NULL
+"Organogenesis","ORGO","United States","0001661181",NULL
+"FibroGen","FGEN","United States","0000921299",NULL
+"Fate Therapeutics","FATE","United States","0001434316",NULL
+"Rigel Pharmaceuticals","RIGL","United States","0001034842",NULL
+"Sarepta Therapeutics","SRPT","United States","0000873303",NULL
+"Verastem","VSTM","United States","0001526119",NULL
+"Clearside Biomedical","CLSD","United States","0001539029",NULL
+"Protagonist Therapeutics","PTGX","United States","0001377121",NULL
+"Allakos","ALLK","United States","0001564824",NULL
+"CymaBay Therapeutics","CBAY","United States","0001042074",NULL
+"Aerie Pharmaceuticals","AERI","United States","0001337553",NULL
+"Oramed","ORMP","United States","0001176309",NULL
+"FSD Pharma","HUGE","Canada","0001771885",NULL
+"TransMedics","TMDX","United States","0001756262",NULL
+"Lumos Pharma","LUMO","United States","0001126234",NULL
+"Enlivex Therapeutics","ENLV","Israel","0001596812",NULL
+"Novavax","NVAX","United States","0001000694",NULL
+"Sage Therapeutics","SAGE","United States","0001597553",NULL
+"Beyond Air","XAIR","United States","0001641631",NULL
+"Intellia Therapeutics","NTLA","United States","0001652130",NULL
+"CytomX Therapeutics","CTMX","United States","0001501989",NULL
+"ResMed","RMD","United States","0000943819",NULL
+"Genocea Biosciences","GNCA","United States","0001457612",NULL
+"Fulcrum Therapeutics","FULC","United States","0001680581",NULL
+"Armata Pharmaceuticals","ARMP","United States","0000921114",NULL
+"PMV Pharmaceuticals","PMVP","United States","0001699382",NULL
+"NGM Biopharmaceuticals","NGM","United States","0001426332",NULL
+"Denali Therapeutics","DNLI","United States","0001714899",NULL
+"PTC Therapeutics","PTCT","United States","0001070081",NULL
+"Acceleron Pharma","XLRN","United States","0001280600",NULL
+"TFF Pharmaceuticals","TFFP","United States","0001733413",NULL
+"Achieve Life Sciences","ACHV","Canada","0000949858",NULL
+"Forma Therapeutics","FMTX","United States","0001538927",NULL
+"Intuitive Surgical","ISRG","United States","0001035267",NULL
+"Apellis Pharmaceuticals","APLS","United States","0001492422",NULL
+"Chimerix","CMRX","United States","0001117480",NULL
+"Pliant Therapeutics","PLRX","United States","0001746473",NULL
+"Y-mAbs Therapeutics","YMAB","United States","0001722964",NULL
+"Sorrento Therapeutics","SRNE","United States","0000850261",NULL
+"BioMarin Pharmaceutical","BMRN","United States","0001048477",NULL
+"IGM Biosciences","IGMS","United States","0001496323",NULL
+"Spero Therapeutics","SPRO","United States","0001701108",NULL
+"Evofem","EVFM","United States","0001618835",NULL
+"OPKO Health","OPK","United States","0000944809",NULL
+"Alnylam Pharmaceuticals","ALNY","United States","0001178670",NULL
+"Ardelyx","ARDX","United States","0001437402",NULL
+"Celldex Therapeutics","CLDX","United States","0000744218",NULL
+"Hoth Therapeutics","HOTH","United States","0001711786",NULL
+"Spruce Biosciences","SPRB","United States","0001683553",NULL
+"Sigilon Therapeutics","SGTX","United States","0001821323",NULL
+"Calliditas Therapeutics AB","CALT","Sweden","0001795579",NULL
+"Unity Biotechnology","UBX","United States","0001463361",NULL
+"Verona Pharma","VRNA","United Kingdom","0001657312",NULL
+"American University","NAUH","United States","0001399855",NULL
+"Nuvation Bio","NUVB","United States","0001811063",NULL
+"Genfit","GNFT","France","0001757064",NULL
+"Relay Therapeutics","RLAY","United States","0001812364",NULL
+"Rocket Pharmaceuticals","RCKT","United States","0001281895",NULL
+"Aclaris Therapeutics","ACRS","United States","0001557746",NULL
+"Corcept Therapeutics","CORT","United States","0001088856",NULL
+"Caladrius Biosciences","CLBS","United States","0000320017",NULL
+"4D Molecular Therapeutics","FDMT","United States","0001650648",NULL
+"Outlook Therapeutics","OTLK","United States","0001649989",NULL
+"Selecta Biosciences","SELB","United States","0001453687",NULL
+"Marker Therapeutics","MRKR","United States","0001094038",NULL
+"Tonix Pharmaceuticals","TNXP","United States","0001430306",NULL
+"Olema Pharmaceuticals","OLMA","United States","0001750284",NULL
+"Kaleido Biosciences","KLDO","United States","0001751299",NULL
+"Vapotherm","VAPO","United States","0001253176",NULL
+"DBV Technologies","DBVT","France","0001613780",NULL
+"Shattuck Labs","STTK","United States","0001680367",NULL
+"Forte Biosciences","FBRX","United States","0001419041",NULL
+"NexImmune","NEXI","United States","0001538210",NULL
+"Athira Pharma","ATHA","United States","0001620463",NULL
+"Evelo Biosciences","EVLO","United States","0001694665",NULL
+"SIGA Technologies","SIGA","United States","0001010086",NULL
+"Abiomed","ABMD","United States","0000815094",NULL
+"Milestone Pharmaceuticals","MIST","Canada","0001408443",NULL
+"Aptose Biosciences","APTO","Canada","0000882361",NULL
+"Galera Therapeutics","GRTX","United States","0001563577",NULL
+"Enanta Pharmaceuticals","ENTA","United States","0001177648",NULL
+"Ayala Pharmaceuticals","AYLA","Israel","0001797336",NULL
+"Silverback Therapeutics","SBTX","United States","0001671858",NULL
+"Angion Biomedica","ANGN","United States","0001601485",NULL
+"Freeline Therapeutics","FRLN","United Kingdom","0001810031",NULL
+"Evaxion Biotech A/S","EVAX","Denmark","0001828253",NULL
+"Zymeworks","ZYME","Canada","0001403752",NULL
+"Kiniksa Pharmaceuticals","KNSA","Bermuda","0001730430",NULL
+"Anavex Life Sciences","AVXL","United States","0001314052",NULL
+"IVERIC bio","ISEE","United States","0001410939",NULL
+"Ampio Pharmaceuticals","AMPE","United States","0001411906",NULL
+"PhaseBio Pharmaceuticals","PHAS","United States","0001169245",NULL
+"NextCure","NXTC","United States","0001661059",NULL
+"MediciNova","MNOV","United States","0001226616",NULL
+"Cabaletta Bio","CABA","United States","0001759138",NULL
+"Keros Therapeutics","KROS","United States","0001664710",NULL
+"ALX Oncology","ALXO","United States","0001810182",NULL
+"Vir Biotechnology","VIR","United States","0001706431",NULL
+"aTyr Pharma","LIFE","United States","0001339970",NULL
+"PolyPid","PYPD","Israel","0001611842",NULL
+"Adaptimmune","ADAP","United Kingdom","0001621227",NULL
+"Satsuma Pharmaceuticals","STSA","United States","0001692830",NULL
+"Spectrum Pharmaceuticals","SPPI","United States","0000831547",NULL
+"Neurocrine Biosciences","NBIX","United States","0000914475",NULL
+"Atea Pharmaceuticals","AVIR","United States","0001593899",NULL
+"Pluristem","PSTI","Israel","0001158780",NULL
+"Aprea Therapeutics","APRE","United States","0001781983",NULL
+"Edwards Lifesciences","EW","United States","0001099800",NULL
+"Rubius Therapeutics","RUBY","United States","0001709401",NULL
+"Albireo","ALBO","United States","0001322505",NULL
+"Akebia Therapeutics","AKBA","United States","0001517022",NULL
+"Aravive","ARAV","United States","0001513818",NULL
+"ImmunoGen","IMGN","United States","0000855654",NULL
+"Intra-Cellular Therapies","ITCI","United States","0001567514",NULL
+"3M","MMM","United States","0000066740",NULL
+"Epizyme","EPZM","United States","0001571498",NULL
+"Madrigal Pharmaceuticals","MDGL","United States","0001157601",NULL
+"Viveve","VIVE","United States","0000879682",NULL
+"Larimar Therapeutics","LRMR","United States","0001374690",NULL
+"Agios Pharmaceuticals","AGIO","United States","0001439222",NULL
+"Agenus","AGEN","United States","0001098972",NULL
+"Paratek Pharmaceuticals","PRTK","United States","0001178711",NULL
+"Jazz Pharmaceuticals","JAZZ","Ireland","0001232524",NULL
+"Iovance Biotherapeutics","IOVA","United States","0001425205",NULL
+"Alkermes","ALKS","Ireland","0001520262",NULL
+"TG Therapeutics","TGTX","United States","0001001316",NULL
+"Taiwan Liposome Company","TLC","Taiwan","0001722890",NULL
+"AVEO Pharmaceuticals","AVEO","United States","0001325879",NULL
+"United Therapeutics","UTHR","United States","0001082554",NULL
+"Venus Concept","VERO","Canada","0001409269",NULL
+"MacroGenics","MGNX","United States","0001125345",NULL
+"Catalyst Biosciences","CBIO","United States","0001124105",NULL
+"Liminal BioSciences","LMNL","Canada","0001351172",NULL
+"Amicus Therapeutics","FOLD","United States","0001178879",NULL
+"Syndax Pharmaceuticals","SNDX","United States","0001395937",NULL
+"Krystal Biotech","KRYS","United States","0001711279",NULL
+"Kezar Life Sciences","KZR","United States","0001645666",NULL
+"ACADIA Pharmaceuticals","ACAD","United States","0001070494",NULL
+"Cara Therapeutics","CARA","United States","0001346830",NULL
+"Revolution Medicines","RVMD","United States","0001628171",NULL
+"Pulmatrix","PULM","United States","0001574235",NULL
+"Kodiak Sciences","KOD","United States","0001468748",NULL
+"Chinook Therapeutics","KDNY","United States","0001435049",NULL
+"Molecular Templates","MTEM","United States","0001183765",NULL
+"BioCryst Pharmaceuticals","BCRX","United States","0000882796",NULL
+"Allena Pharmaceuticals","ALNA","United States","0001624658",NULL
+"Dicerna Pharmaceuticals","DRNA","United States","0001399529",NULL
+"Cardiff Oncology","CRDF","United States","0001213037",NULL
+"Xenon Pharmaceuticals","XENE","Canada","0001582313",NULL
+"Crinetics Pharmaceuticals","CRNX","United States","0001658247",NULL
+"Wave Life Sciences","WVE","Singapore","0001631574",NULL
+"COMPASS Pathways","CMPS","United Kingdom","0001816590",NULL
+"AnaptysBio","ANAB","United States","0001370053",NULL
+"Merit Medical Systems","MMSI","United States","0000856982",NULL
+"DexCom","DXCM","United States","0001093557",NULL
+"Savara","SVRA","United States","0001160308",NULL
+"Hepion Pharmaceuticals","HEPA","United States","0001583771",NULL
+"MediWound","MDWD","Israel","0001593984",NULL
+"Summit Therapeutics","SMMT","United States","0001599298",NULL
+"Avinger","AVGR","United States","0001506928",NULL
+"Equillium","EQ","United States","0001746466",NULL
+"Synlogic","SYBX","United States","0001527599",NULL
+"Sangamo Therapeutics","SGMO","United States","0001001233",NULL
+"Moleculin Biotech","MBRX","United States","0001659617",NULL
+"Abbott","ABT","United States","0000001800",NULL
+"NovoCure","NVCR","Jersey","0001645113",NULL
+"Atara Biotherapeutics","ATRA","United States","0001604464",NULL
+"Checkpoint Therapeutics","CKPT","United States","0001651407",NULL
+"VistaGen Therapeutics","VTGN","United States","0001411685",NULL
+"Brainsway","BWAY","Israel","0001505065",NULL
+"Kamada","KMDA","Israel","0001567529",NULL
+"Onconova Therapeutics","ONTX","United States","0001130598",NULL
+"Vaxart","VXRT","United States","0000072444",NULL
+"Adverum Biotechnologies","ADVM","United States","0001501756",NULL
+"Annovis Bio","ANVS","United States","0001477845",NULL
+"EyePoint Pharmaceuticals","EYPT","United States","0001314102",NULL
+"Radius Health","RDUS","United States","0001428522",NULL
+"Alexion Pharmaceuticals","ALXN","United States","0000899866",NULL
+"GW Pharmaceuticals","GWPH","United Kingdom","0001351288",NULL
+"Constellation Pharmaceuticals","CNST","United States","0001434418",NULL
+"Cerecor","CERC","United States","0001534120","AVTX"

@@ -1,0 +1,81 @@
+version: '3.8'
+
+services:
+
+  web:
+    restart: always
+    build: ./app
+    ports:
+      - 8000:8000
+    volumes:
+      - ./app:/app
+    environment:
+      - PORT=8000
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - redis
+
+  db:
+    restart: always
+    container_name: postgres_database
+    image: "postgres"
+    volumes:
+      - ./app:/app
+      - ./postgres-data:/var/lib/postgresql/data
+    environment:
+        - DOCKER=True
+        - POSTGRES_USER=alexuknow
+        - POSTGRES_PASSWORD=ethan333
+        - POSTGRES_DB=companies
+
+  worker:
+    restart: always
+    build: ./app
+    command: bash -c "cd /app && celery -A worker.celery worker -Q queue1 --loglevel=info -f celery.log --concurrency=1"
+    volumes:
+      - ./app:/app
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - web
+      - redis
+
+  worker2:
+    restart: always
+    build: ./app
+    command: bash -c "cd /app && celery -A worker.celery worker -Q queue2 --loglevel=info -f celery2.log --concurrency=2"
+    volumes:
+      - ./app:/app
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - web
+      - redis
+
+
+  redis:
+    environment: 
+      - PORT=6379
+    image: redis
+    ports: 
+      - 6379:6379
+    
+  
+    
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: demo-pgadmin 
+    depends_on:
+        - db
+    ports:
+        - "5555:80"
+    environment:
+        - PGADMIN_DEFAULT_EMAIL=pgadmin4@pgadmin.org
+        - PGADMIN_DEFAULT_PASSWORD=root
+          
+    restart: unless-stopped
+

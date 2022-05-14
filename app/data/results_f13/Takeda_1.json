@@ -1,0 +1,4356 @@
+[
+  {
+    "file_date": "2013-01-14",
+    "end_date": "2012-12-31",
+    "shares": 7.2e-05,
+    "value": 1134,
+    "done": true
+  },
+  {
+    "file_date": "2013-01-25",
+    "end_date": "2012-12-31",
+    "shares": 0.012633,
+    "value": 197706,
+    "done": true
+  },
+  {
+    "file_date": "2013-01-29",
+    "end_date": "2012-12-31",
+    "shares": 0.02138,
+    "value": 334603,
+    "done": true
+  },
+  {
+    "file_date": "2013-01-30",
+    "end_date": "2012-12-31",
+    "shares": 0.021429,
+    "value": 335373,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-04",
+    "end_date": "2012-12-31",
+    "shares": 0.033132,
+    "value": 518523,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-05",
+    "end_date": "2012-12-31",
+    "shares": 0.033136,
+    "value": 518582,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-06",
+    "end_date": "2012-12-31",
+    "shares": 0.033161,
+    "value": 518978,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-07",
+    "end_date": "2012-12-31",
+    "shares": 0.036593,
+    "value": 572678,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-11",
+    "end_date": "2012-12-31",
+    "shares": 0.036597,
+    "value": 572741,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-12",
+    "end_date": "2012-12-31",
+    "shares": 0.036597,
+    "value": 572741,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-13",
+    "end_date": "2012-12-31",
+    "shares": 0.036944,
+    "value": 578172,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-14",
+    "end_date": "2012-12-31",
+    "shares": 0.041366,
+    "value": 647377,
+    "done": true
+  },
+  {
+    "file_date": "2013-02-26",
+    "end_date": "2012-12-31",
+    "shares": 0.041384,
+    "value": 647660,
+    "done": true
+  },
+  {
+    "file_date": "2013-04-08",
+    "end_date": "2013-03-31",
+    "shares": 0.041384,
+    "value": 647660,
+    "done": true
+  },
+  {
+    "file_date": "2013-04-10",
+    "end_date": "2013-03-31",
+    "shares": 0.041384,
+    "value": 647660,
+    "done": true
+  },
+  {
+    "file_date": "2013-04-12",
+    "end_date": "2013-03-31",
+    "shares": 0.042605,
+    "value": 666768,
+    "done": true
+  },
+  {
+    "file_date": "2013-04-19",
+    "end_date": "2013-03-31",
+    "shares": 0.041094,
+    "value": 643122,
+    "done": true
+  },
+  {
+    "file_date": "2013-05-08",
+    "end_date": "2013-03-31",
+    "shares": 0.040551,
+    "value": 634622,
+    "done": true
+  },
+  {
+    "file_date": "2013-05-09",
+    "end_date": "2013-03-31",
+    "shares": 0.040551,
+    "value": 634622,
+    "done": true
+  },
+  {
+    "file_date": "2013-05-13",
+    "end_date": "2013-03-31",
+    "shares": 0.040551,
+    "value": 634622,
+    "done": true
+  },
+  {
+    "file_date": "2013-05-14",
+    "end_date": "2013-03-31",
+    "shares": 0.052424,
+    "value": 820439,
+    "done": true
+  },
+  {
+    "file_date": "2013-07-19",
+    "end_date": "2013-06-30",
+    "shares": 0.056754,
+    "value": 888211,
+    "done": true
+  },
+  {
+    "file_date": "2013-07-26",
+    "end_date": "2013-03-31",
+    "shares": 0.056754,
+    "value": 888211,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-01",
+    "end_date": "2013-06-30",
+    "shares": 0.056754,
+    "value": 888211,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-05",
+    "end_date": "2013-06-30",
+    "shares": 0.056754,
+    "value": 888211,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-06",
+    "end_date": "2013-06-30",
+    "shares": 0.055794,
+    "value": 873181,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-07",
+    "end_date": "2013-06-30",
+    "shares": 0.055191,
+    "value": 863747,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-12",
+    "end_date": "2013-06-30",
+    "shares": 0.061377,
+    "value": 960560,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-13",
+    "end_date": "2013-06-30",
+    "shares": 0.061377,
+    "value": 960560,
+    "done": true
+  },
+  {
+    "file_date": "2013-08-14",
+    "end_date": "2013-06-30",
+    "shares": 0.061412,
+    "value": 961108,
+    "done": true
+  },
+  {
+    "file_date": "2013-09-19",
+    "end_date": "2013-06-30",
+    "shares": 0.061784,
+    "value": 966927,
+    "done": true
+  },
+  {
+    "file_date": "2013-10-07",
+    "end_date": "2013-09-30",
+    "shares": 0.061784,
+    "value": 966927,
+    "done": true
+  },
+  {
+    "file_date": "2013-10-09",
+    "end_date": "2013-09-30",
+    "shares": 0.061784,
+    "value": 966927,
+    "done": true
+  },
+  {
+    "file_date": "2013-10-18",
+    "end_date": "2013-09-30",
+    "shares": 0.061867,
+    "value": 968228,
+    "done": true
+  },
+  {
+    "file_date": "2013-10-24",
+    "end_date": "2013-09-30",
+    "shares": 0.063809,
+    "value": 998614,
+    "done": true
+  },
+  {
+    "file_date": "2013-11-12",
+    "end_date": "2013-09-30",
+    "shares": 0.063724,
+    "value": 997285,
+    "done": true
+  },
+  {
+    "file_date": "2013-11-13",
+    "end_date": "2013-09-30",
+    "shares": 0.063724,
+    "value": 997285,
+    "done": true
+  },
+  {
+    "file_date": "2013-11-14",
+    "end_date": "2013-09-30",
+    "shares": 0.064224,
+    "value": 1005117,
+    "done": true
+  },
+  {
+    "file_date": "2013-11-22",
+    "end_date": "2013-06-30",
+    "shares": 0.064224,
+    "value": 1005117,
+    "done": true
+  },
+  {
+    "file_date": "2014-01-08",
+    "end_date": "2013-12-31",
+    "shares": 0.064221,
+    "value": 1005061,
+    "done": true
+  },
+  {
+    "file_date": "2014-01-10",
+    "end_date": "2013-12-31",
+    "shares": 0.064815,
+    "value": 1014354,
+    "done": true
+  },
+  {
+    "file_date": "2014-01-24",
+    "end_date": "2013-12-31",
+    "shares": 0.062743,
+    "value": 981929,
+    "done": true
+  },
+  {
+    "file_date": "2014-01-31",
+    "end_date": "2013-12-31",
+    "shares": 0.062763,
+    "value": 982255,
+    "done": true
+  },
+  {
+    "file_date": "2014-02-10",
+    "end_date": "2013-12-31",
+    "shares": 0.059048,
+    "value": 924112,
+    "done": true
+  },
+  {
+    "file_date": "2014-02-11",
+    "end_date": "2013-12-31",
+    "shares": 0.058952,
+    "value": 922612,
+    "done": true
+  },
+  {
+    "file_date": "2014-02-12",
+    "end_date": "2013-12-31",
+    "shares": 0.058952,
+    "value": 922612,
+    "done": true
+  },
+  {
+    "file_date": "2014-02-13",
+    "end_date": "2013-12-31",
+    "shares": 0.060386,
+    "value": 945052,
+    "done": true
+  },
+  {
+    "file_date": "2014-02-14",
+    "end_date": "2013-12-31",
+    "shares": 0.06044,
+    "value": 945887,
+    "done": true
+  },
+  {
+    "file_date": "2014-04-07",
+    "end_date": "2014-03-31",
+    "shares": 0.06044,
+    "value": 945887,
+    "done": true
+  },
+  {
+    "file_date": "2014-04-25",
+    "end_date": "2014-03-31",
+    "shares": 0.063969,
+    "value": 1001116,
+    "done": true
+  },
+  {
+    "file_date": "2014-04-28",
+    "end_date": "2014-03-31",
+    "shares": 0.064191,
+    "value": 1004595,
+    "done": true
+  },
+  {
+    "file_date": "2014-04-29",
+    "end_date": "2014-03-31",
+    "shares": 0.063536,
+    "value": 994352,
+    "done": true
+  },
+  {
+    "file_date": "2014-05-06",
+    "end_date": "2014-03-31",
+    "shares": 0.063498,
+    "value": 993752,
+    "done": true
+  },
+  {
+    "file_date": "2014-05-07",
+    "end_date": "2014-03-31",
+    "shares": 0.063498,
+    "value": 993752,
+    "done": true
+  },
+  {
+    "file_date": "2014-05-12",
+    "end_date": "2014-03-31",
+    "shares": 0.063708,
+    "value": 997038,
+    "done": true
+  },
+  {
+    "file_date": "2014-05-13",
+    "end_date": "2014-03-31",
+    "shares": 0.054091,
+    "value": 846536,
+    "done": true
+  },
+  {
+    "file_date": "2014-05-14",
+    "end_date": "2014-03-31",
+    "shares": 0.054082,
+    "value": 846381,
+    "done": true
+  },
+  {
+    "file_date": "2014-05-27",
+    "end_date": "2014-03-31",
+    "shares": 0.054094,
+    "value": 846581,
+    "done": true
+  },
+  {
+    "file_date": "2014-07-10",
+    "end_date": "2014-06-30",
+    "shares": 0.054094,
+    "value": 846581,
+    "done": true
+  },
+  {
+    "file_date": "2014-07-18",
+    "end_date": "2014-06-30",
+    "shares": 0.054122,
+    "value": 847015,
+    "done": true
+  },
+  {
+    "file_date": "2014-07-22",
+    "end_date": "2014-06-30",
+    "shares": 0.054122,
+    "value": 847015,
+    "done": true
+  },
+  {
+    "file_date": "2014-07-28",
+    "end_date": "2014-06-30",
+    "shares": 0.053863,
+    "value": 842956,
+    "done": true
+  },
+  {
+    "file_date": "2014-08-01",
+    "end_date": "2014-06-30",
+    "shares": 0.053575,
+    "value": 838456,
+    "done": true
+  },
+  {
+    "file_date": "2014-08-11",
+    "end_date": "2014-06-30",
+    "shares": 0.053744,
+    "value": 841092,
+    "done": true
+  },
+  {
+    "file_date": "2014-08-12",
+    "end_date": "2014-06-30",
+    "shares": 0.053868,
+    "value": 843041,
+    "done": true
+  },
+  {
+    "file_date": "2014-08-13",
+    "end_date": "2014-06-30",
+    "shares": 0.053812,
+    "value": 842166,
+    "done": true
+  },
+  {
+    "file_date": "2014-10-03",
+    "end_date": "2014-09-30",
+    "shares": 0.053812,
+    "value": 842166,
+    "done": true
+  },
+  {
+    "file_date": "2014-10-09",
+    "end_date": "2014-09-30",
+    "shares": 0.053815,
+    "value": 842211,
+    "done": true
+  },
+  {
+    "file_date": "2014-10-20",
+    "end_date": "2014-09-30",
+    "shares": 0.053612,
+    "value": 839027,
+    "done": true
+  },
+  {
+    "file_date": "2014-10-29",
+    "end_date": "2014-06-30",
+    "shares": 0.053612,
+    "value": 839027,
+    "done": true
+  },
+  {
+    "file_date": "2014-11-04",
+    "end_date": "2014-09-30",
+    "shares": 0.053632,
+    "value": 839349,
+    "done": true
+  },
+  {
+    "file_date": "2014-11-12",
+    "end_date": "2014-09-30",
+    "shares": 0.053969,
+    "value": 844613,
+    "done": true
+  },
+  {
+    "file_date": "2014-11-13",
+    "end_date": "2014-09-30",
+    "shares": 0.055044,
+    "value": 861447,
+    "done": true
+  },
+  {
+    "file_date": "2014-11-14",
+    "end_date": "2014-09-30",
+    "shares": 0.054976,
+    "value": 860386,
+    "done": true
+  },
+  {
+    "file_date": "2014-11-20",
+    "end_date": "2014-09-30",
+    "shares": 0.054976,
+    "value": 860386,
+    "done": true
+  },
+  {
+    "file_date": "2015-01-12",
+    "end_date": "2014-12-31",
+    "shares": 0.054976,
+    "value": 860386,
+    "done": true
+  },
+  {
+    "file_date": "2015-01-23",
+    "end_date": "2014-12-31",
+    "shares": 0.055001,
+    "value": 860771,
+    "done": true
+  },
+  {
+    "file_date": "2015-02-05",
+    "end_date": "2014-12-31",
+    "shares": 0.054963,
+    "value": 860173,
+    "done": true
+  },
+  {
+    "file_date": "2015-02-06",
+    "end_date": "2014-12-31",
+    "shares": 0.056535,
+    "value": 884776,
+    "done": true
+  },
+  {
+    "file_date": "2015-02-11",
+    "end_date": "2014-12-31",
+    "shares": 0.054409,
+    "value": 851506,
+    "done": true
+  },
+  {
+    "file_date": "2015-02-13",
+    "end_date": "2014-12-31",
+    "shares": 0.055031,
+    "value": 861247,
+    "done": true
+  },
+  {
+    "file_date": "2015-04-10",
+    "end_date": "2015-03-31",
+    "shares": 0.055031,
+    "value": 861247,
+    "done": true
+  },
+  {
+    "file_date": "2015-04-13",
+    "end_date": "2015-03-31",
+    "shares": 0.055031,
+    "value": 861247,
+    "done": true
+  },
+  {
+    "file_date": "2015-04-21",
+    "end_date": "2015-03-31",
+    "shares": 0.055798,
+    "value": 873247,
+    "done": true
+  },
+  {
+    "file_date": "2015-04-22",
+    "end_date": "2015-03-31",
+    "shares": 0.055746,
+    "value": 872432,
+    "done": true
+  },
+  {
+    "file_date": "2015-04-29",
+    "end_date": "2015-03-31",
+    "shares": 0.055758,
+    "value": 872612,
+    "done": true
+  },
+  {
+    "file_date": "2015-05-11",
+    "end_date": "2015-03-31",
+    "shares": 0.055317,
+    "value": 865712,
+    "done": true
+  },
+  {
+    "file_date": "2015-05-12",
+    "end_date": "2015-03-31",
+    "shares": 0.055635,
+    "value": 870696,
+    "done": true
+  },
+  {
+    "file_date": "2015-05-14",
+    "end_date": "2015-03-31",
+    "shares": 0.055741,
+    "value": 872346,
+    "done": true
+  },
+  {
+    "file_date": "2015-05-15",
+    "end_date": "2015-03-31",
+    "shares": 0.055753,
+    "value": 872546,
+    "done": true
+  },
+  {
+    "file_date": "2015-05-18",
+    "end_date": "2015-03-31",
+    "shares": 0.060083,
+    "value": 940303,
+    "done": true
+  },
+  {
+    "file_date": "2015-07-17",
+    "end_date": "2015-06-30",
+    "shares": 0.060083,
+    "value": 940303,
+    "done": true
+  },
+  {
+    "file_date": "2015-07-22",
+    "end_date": "2015-06-30",
+    "shares": 0.060103,
+    "value": 940612,
+    "done": true
+  },
+  {
+    "file_date": "2015-07-23",
+    "end_date": "2015-06-30",
+    "shares": 0.059789,
+    "value": 935706,
+    "done": true
+  },
+  {
+    "file_date": "2015-08-03",
+    "end_date": "2015-06-30",
+    "shares": 0.058364,
+    "value": 913406,
+    "done": true
+  },
+  {
+    "file_date": "2015-08-06",
+    "end_date": "2015-06-30",
+    "shares": 0.058364,
+    "value": 913406,
+    "done": true
+  },
+  {
+    "file_date": "2015-08-12",
+    "end_date": "2015-06-30",
+    "shares": 0.058369,
+    "value": 913486,
+    "done": true
+  },
+  {
+    "file_date": "2015-08-13",
+    "end_date": "2015-06-30",
+    "shares": 0.058312,
+    "value": 912592,
+    "done": true
+  },
+  {
+    "file_date": "2015-08-14",
+    "end_date": "2015-06-30",
+    "shares": 0.06132,
+    "value": 959665,
+    "done": true
+  },
+  {
+    "file_date": "2015-09-24",
+    "end_date": "2015-06-30",
+    "shares": 0.061349,
+    "value": 960125,
+    "done": true
+  },
+  {
+    "file_date": "2015-10-08",
+    "end_date": "2015-09-30",
+    "shares": 0.061349,
+    "value": 960125,
+    "done": true
+  },
+  {
+    "file_date": "2015-10-13",
+    "end_date": "2015-09-30",
+    "shares": 0.061773,
+    "value": 966746,
+    "done": true
+  },
+  {
+    "file_date": "2015-10-21",
+    "end_date": "2015-09-30",
+    "shares": 0.061773,
+    "value": 966746,
+    "done": true
+  },
+  {
+    "file_date": "2015-10-28",
+    "end_date": "2015-09-30",
+    "shares": 0.061773,
+    "value": 966746,
+    "done": true
+  },
+  {
+    "file_date": "2015-11-06",
+    "end_date": "2015-09-30",
+    "shares": 0.061775,
+    "value": 966789,
+    "done": true
+  },
+  {
+    "file_date": "2015-11-12",
+    "end_date": "2015-09-30",
+    "shares": 0.063345,
+    "value": 991358,
+    "done": true
+  },
+  {
+    "file_date": "2015-11-25",
+    "end_date": "2015-09-30",
+    "shares": 0.063368,
+    "value": 991708,
+    "done": true
+  },
+  {
+    "file_date": "2015-12-17",
+    "end_date": "2015-09-30",
+    "shares": 0.063378,
+    "value": 991878,
+    "done": true
+  },
+  {
+    "file_date": "2016-01-22",
+    "end_date": "2015-12-31",
+    "shares": 0.063378,
+    "value": 991878,
+    "done": true
+  },
+  {
+    "file_date": "2016-01-28",
+    "end_date": "2015-12-31",
+    "shares": 0.063432,
+    "value": 992710,
+    "done": true
+  },
+  {
+    "file_date": "2016-02-01",
+    "end_date": "2015-12-31",
+    "shares": 0.063555,
+    "value": 994641,
+    "done": true
+  },
+  {
+    "file_date": "2016-02-05",
+    "end_date": "2015-12-31",
+    "shares": 0.063624,
+    "value": 995726,
+    "done": true
+  },
+  {
+    "file_date": "2016-02-08",
+    "end_date": "2015-12-31",
+    "shares": 0.063624,
+    "value": 995726,
+    "done": true
+  },
+  {
+    "file_date": "2016-02-11",
+    "end_date": "2015-12-31",
+    "shares": 0.062153,
+    "value": 972694,
+    "done": true
+  },
+  {
+    "file_date": "2016-02-12",
+    "end_date": "2015-12-31",
+    "shares": 0.068962,
+    "value": 1079262,
+    "done": true
+  },
+  {
+    "file_date": "2016-02-16",
+    "end_date": "2015-12-31",
+    "shares": 0.068962,
+    "value": 1079262,
+    "done": true
+  },
+  {
+    "file_date": "2016-04-12",
+    "end_date": "2016-03-31",
+    "shares": 0.068962,
+    "value": 1079262,
+    "done": true
+  },
+  {
+    "file_date": "2016-04-20",
+    "end_date": "2016-03-31",
+    "shares": 0.068962,
+    "value": 1079262,
+    "done": true
+  },
+  {
+    "file_date": "2016-04-26",
+    "end_date": "2016-03-31",
+    "shares": 0.069001,
+    "value": 1079868,
+    "done": true
+  },
+  {
+    "file_date": "2016-04-27",
+    "end_date": "2016-03-31",
+    "shares": 0.069499,
+    "value": 1087659,
+    "done": true
+  },
+  {
+    "file_date": "2016-04-28",
+    "end_date": "2016-03-31",
+    "shares": 0.069499,
+    "value": 1087659,
+    "done": true
+  },
+  {
+    "file_date": "2016-05-09",
+    "end_date": "2016-03-31",
+    "shares": 0.069499,
+    "value": 1087668,
+    "done": true
+  },
+  {
+    "file_date": "2016-05-10",
+    "end_date": "2016-03-31",
+    "shares": 0.069499,
+    "value": 1087668,
+    "done": true
+  },
+  {
+    "file_date": "2016-05-12",
+    "end_date": "2016-03-31",
+    "shares": 0.069291,
+    "value": 1084415,
+    "done": true
+  },
+  {
+    "file_date": "2016-05-13",
+    "end_date": "2016-03-31",
+    "shares": 0.079558,
+    "value": 1245094,
+    "done": true
+  },
+  {
+    "file_date": "2016-07-14",
+    "end_date": "2016-06-30",
+    "shares": 0.079558,
+    "value": 1245094,
+    "done": true
+  },
+  {
+    "file_date": "2016-07-28",
+    "end_date": "2016-06-30",
+    "shares": 0.079431,
+    "value": 1243106,
+    "done": true
+  },
+  {
+    "file_date": "2016-07-29",
+    "end_date": "2016-06-30",
+    "shares": 0.079431,
+    "value": 1243106,
+    "done": true
+  },
+  {
+    "file_date": "2016-08-02",
+    "end_date": "2016-06-30",
+    "shares": 0.079911,
+    "value": 1250618,
+    "done": true
+  },
+  {
+    "file_date": "2016-08-05",
+    "end_date": "2016-06-30",
+    "shares": 0.079823,
+    "value": 1249238,
+    "done": true
+  },
+  {
+    "file_date": "2016-08-08",
+    "end_date": "2016-06-30",
+    "shares": 0.079786,
+    "value": 1248666,
+    "done": true
+  },
+  {
+    "file_date": "2016-08-10",
+    "end_date": "2016-06-30",
+    "shares": 0.079786,
+    "value": 1248666,
+    "done": true
+  },
+  {
+    "file_date": "2016-08-12",
+    "end_date": "2016-06-30",
+    "shares": 0.062128,
+    "value": 972302,
+    "done": true
+  },
+  {
+    "file_date": "2016-10-12",
+    "end_date": "2016-09-30",
+    "shares": 0.062128,
+    "value": 972302,
+    "done": true
+  },
+  {
+    "file_date": "2016-10-25",
+    "end_date": "2016-09-30",
+    "shares": 0.062252,
+    "value": 974256,
+    "done": true
+  },
+  {
+    "file_date": "2016-10-28",
+    "end_date": "2016-09-30",
+    "shares": 0.062757,
+    "value": 982147,
+    "done": true
+  },
+  {
+    "file_date": "2016-11-08",
+    "end_date": "2016-09-30",
+    "shares": 0.06255,
+    "value": 978915,
+    "done": true
+  },
+  {
+    "file_date": "2016-11-14",
+    "end_date": "2016-09-30",
+    "shares": 0.070892,
+    "value": 1109460,
+    "done": true
+  },
+  {
+    "file_date": "2016-11-16",
+    "end_date": "2016-09-30",
+    "shares": 0.070859,
+    "value": 1108951,
+    "done": true
+  },
+  {
+    "file_date": "2017-01-11",
+    "end_date": "2016-12-31",
+    "shares": 0.070776,
+    "value": 1107650,
+    "done": true
+  },
+  {
+    "file_date": "2017-01-12",
+    "end_date": "2016-12-31",
+    "shares": 0.070776,
+    "value": 1107650,
+    "done": true
+  },
+  {
+    "file_date": "2017-01-30",
+    "end_date": "2016-12-31",
+    "shares": 0.070224,
+    "value": 1099017,
+    "done": true
+  },
+  {
+    "file_date": "2017-02-03",
+    "end_date": "2016-12-31",
+    "shares": 0.071205,
+    "value": 1114364,
+    "done": true
+  },
+  {
+    "file_date": "2017-02-07",
+    "end_date": "2016-12-31",
+    "shares": 0.071205,
+    "value": 1114364,
+    "done": true
+  },
+  {
+    "file_date": "2017-02-13",
+    "end_date": "2016-12-31",
+    "shares": 0.071205,
+    "value": 1114364,
+    "done": true
+  },
+  {
+    "file_date": "2017-02-14",
+    "end_date": "2016-12-31",
+    "shares": 0.071635,
+    "value": 1121102,
+    "done": true
+  },
+  {
+    "file_date": "2017-04-10",
+    "end_date": "2017-03-31",
+    "shares": 0.071909,
+    "value": 1125388,
+    "done": true
+  },
+  {
+    "file_date": "2017-04-20",
+    "end_date": "2017-03-31",
+    "shares": 0.071909,
+    "value": 1125388,
+    "done": true
+  },
+  {
+    "file_date": "2017-05-02",
+    "end_date": "2017-03-31",
+    "shares": 0.071913,
+    "value": 1125445,
+    "done": true
+  },
+  {
+    "file_date": "2017-05-04",
+    "end_date": "2017-03-31",
+    "shares": 0.072004,
+    "value": 1126863,
+    "done": true
+  },
+  {
+    "file_date": "2017-05-08",
+    "end_date": "2017-03-31",
+    "shares": 0.093073,
+    "value": 1456608,
+    "done": true
+  },
+  {
+    "file_date": "2017-05-15",
+    "end_date": "2017-03-31",
+    "shares": 0.093073,
+    "value": 1456608,
+    "done": true
+  },
+  {
+    "file_date": "2017-05-16",
+    "end_date": "2017-03-31",
+    "shares": 0.093093,
+    "value": 1456908,
+    "done": true
+  },
+  {
+    "file_date": "2017-07-10",
+    "end_date": "2017-06-30",
+    "shares": 0.093093,
+    "value": 1456908,
+    "done": true
+  },
+  {
+    "file_date": "2017-07-28",
+    "end_date": "2017-06-30",
+    "shares": 0.092748,
+    "value": 1451519,
+    "done": true
+  },
+  {
+    "file_date": "2017-08-11",
+    "end_date": "2017-06-30",
+    "shares": 0.101756,
+    "value": 1592495,
+    "done": true
+  },
+  {
+    "file_date": "2017-08-14",
+    "end_date": "2017-06-30",
+    "shares": 0.101756,
+    "value": 1592490,
+    "done": true
+  },
+  {
+    "file_date": "2017-08-15",
+    "end_date": "2017-06-30",
+    "shares": 0.101811,
+    "value": 1593348,
+    "done": true
+  },
+  {
+    "file_date": "2017-10-12",
+    "end_date": "2017-09-30",
+    "shares": 0.101811,
+    "value": 1593348,
+    "done": true
+  },
+  {
+    "file_date": "2017-10-13",
+    "end_date": "2017-09-30",
+    "shares": 0.101839,
+    "value": 1593783,
+    "done": true
+  },
+  {
+    "file_date": "2017-11-03",
+    "end_date": "2017-09-30",
+    "shares": 0.101823,
+    "value": 1593540,
+    "done": true
+  },
+  {
+    "file_date": "2017-11-09",
+    "end_date": "2017-09-30",
+    "shares": 0.101823,
+    "value": 1593540,
+    "done": true
+  },
+  {
+    "file_date": "2017-11-14",
+    "end_date": "2017-09-30",
+    "shares": 0.123398,
+    "value": 1931195,
+    "done": true
+  },
+  {
+    "file_date": "2017-12-14",
+    "end_date": "2017-06-30",
+    "shares": 0.101506,
+    "value": 1588575,
+    "done": true
+  },
+  {
+    "file_date": "2018-01-12",
+    "end_date": "2017-12-31",
+    "shares": 0.101506,
+    "value": 1588575,
+    "done": true
+  },
+  {
+    "file_date": "2018-01-19",
+    "end_date": "2017-12-31",
+    "shares": 0.101282,
+    "value": 1585077,
+    "done": true
+  },
+  {
+    "file_date": "2018-01-24",
+    "end_date": "2017-12-31",
+    "shares": 0.101283,
+    "value": 1585085,
+    "done": true
+  },
+  {
+    "file_date": "2018-01-31",
+    "end_date": "2017-12-31",
+    "shares": 0.101282,
+    "value": 1585075,
+    "done": true
+  },
+  {
+    "file_date": "2018-02-13",
+    "end_date": "2017-09-30",
+    "shares": 0.101282,
+    "value": 1585075,
+    "done": true
+  },
+  {
+    "file_date": "2018-02-14",
+    "end_date": "2017-12-31",
+    "shares": 0.140454,
+    "value": 2198126,
+    "done": true
+  },
+  {
+    "file_date": "2018-02-15",
+    "end_date": "2017-12-31",
+    "shares": 0.140981,
+    "value": 2206372,
+    "done": true
+  },
+  {
+    "file_date": "2018-03-19",
+    "end_date": "2017-12-31",
+    "shares": 0.140988,
+    "value": 2206478,
+    "done": true
+  },
+  {
+    "file_date": "2018-04-18",
+    "end_date": "2018-03-31",
+    "shares": 0.140988,
+    "value": 2206478,
+    "done": true
+  },
+  {
+    "file_date": "2018-04-23",
+    "end_date": "2018-03-31",
+    "shares": 0.139297,
+    "value": 2180007,
+    "done": true
+  },
+  {
+    "file_date": "2018-05-02",
+    "end_date": "2018-03-31",
+    "shares": 0.139296,
+    "value": 2180002,
+    "done": true
+  },
+  {
+    "file_date": "2018-05-10",
+    "end_date": "2018-03-31",
+    "shares": 0.139294,
+    "value": 2179960,
+    "done": true
+  },
+  {
+    "file_date": "2018-05-11",
+    "end_date": "2018-03-31",
+    "shares": 0.139301,
+    "value": 2180071,
+    "done": true
+  },
+  {
+    "file_date": "2018-05-14",
+    "end_date": "2018-03-31",
+    "shares": 0.154667,
+    "value": 2420548,
+    "done": true
+  },
+  {
+    "file_date": "2018-05-15",
+    "end_date": "2018-03-31",
+    "shares": 0.154667,
+    "value": 2420548,
+    "done": true
+  },
+  {
+    "file_date": "2018-05-16",
+    "end_date": "2018-03-31",
+    "shares": 0.154703,
+    "value": 2421113,
+    "done": true
+  },
+  {
+    "file_date": "2018-07-10",
+    "end_date": "2018-06-30",
+    "shares": 0.154703,
+    "value": 2421113,
+    "done": true
+  },
+  {
+    "file_date": "2018-07-18",
+    "end_date": "2018-06-30",
+    "shares": 0.159443,
+    "value": 2495298,
+    "done": true
+  },
+  {
+    "file_date": "2018-08-07",
+    "end_date": "2018-06-30",
+    "shares": 0.159443,
+    "value": 2495298,
+    "done": true
+  },
+  {
+    "file_date": "2018-08-09",
+    "end_date": "2018-06-30",
+    "shares": 0.15918,
+    "value": 2491176,
+    "done": true
+  },
+  {
+    "file_date": "2018-08-13",
+    "end_date": "2018-06-30",
+    "shares": 0.156497,
+    "value": 2449196,
+    "done": true
+  },
+  {
+    "file_date": "2018-08-14",
+    "end_date": "2018-06-30",
+    "shares": 0.162901,
+    "value": 2549417,
+    "done": true
+  },
+  {
+    "file_date": "2018-08-15",
+    "end_date": "2018-06-30",
+    "shares": 0.192593,
+    "value": 3014104,
+    "done": true
+  },
+  {
+    "file_date": "2018-10-10",
+    "end_date": "2018-09-30",
+    "shares": 0.192593,
+    "value": 3014104,
+    "done": true
+  },
+  {
+    "file_date": "2018-10-11",
+    "end_date": "2018-09-30",
+    "shares": 0.192135,
+    "value": 3006936,
+    "done": true
+  },
+  {
+    "file_date": "2018-10-12",
+    "end_date": "2018-09-30",
+    "shares": 0.192147,
+    "value": 3007115,
+    "done": true
+  },
+  {
+    "file_date": "2018-10-23",
+    "end_date": "2018-09-30",
+    "shares": 0.192162,
+    "value": 3007353,
+    "done": true
+  },
+  {
+    "file_date": "2018-10-29",
+    "end_date": "2018-09-30",
+    "shares": 0.195763,
+    "value": 3063709,
+    "done": true
+  },
+  {
+    "file_date": "2018-10-31",
+    "end_date": "2018-09-30",
+    "shares": 0.195772,
+    "value": 3063849,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-05",
+    "end_date": "2018-09-30",
+    "shares": 0.195772,
+    "value": 3063849,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-07",
+    "end_date": "2018-09-30",
+    "shares": 0.195772,
+    "value": 3063849,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-08",
+    "end_date": "2018-09-30",
+    "shares": 0.195772,
+    "value": 3063849,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-13",
+    "end_date": "2018-09-30",
+    "shares": 0.219523,
+    "value": 3435562,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-14",
+    "end_date": "2018-09-30",
+    "shares": 0.220143,
+    "value": 3445253,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-15",
+    "end_date": "2018-09-30",
+    "shares": 0.220272,
+    "value": 3447284,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-16",
+    "end_date": "2018-09-30",
+    "shares": 0.219874,
+    "value": 3441045,
+    "done": true
+  },
+  {
+    "file_date": "2018-11-20",
+    "end_date": "2018-09-30",
+    "shares": 0.219874,
+    "value": 3441045,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-10",
+    "end_date": "2018-12-31",
+    "shares": 0.219874,
+    "value": 3441045,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-16",
+    "end_date": "2018-12-31",
+    "shares": 0.219895,
+    "value": 3441371,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-17",
+    "end_date": "2018-12-31",
+    "shares": 0.220601,
+    "value": 3452432,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-18",
+    "end_date": "2018-12-31",
+    "shares": 0.220625,
+    "value": 3452802,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-22",
+    "end_date": "2018-12-31",
+    "shares": 0.224609,
+    "value": 3515150,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-24",
+    "end_date": "2018-12-31",
+    "shares": 0.407201,
+    "value": 6372735,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-25",
+    "end_date": "2018-12-31",
+    "shares": 0.407221,
+    "value": 6373048,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-28",
+    "end_date": "2018-12-31",
+    "shares": 0.407376,
+    "value": 6375469,
+    "done": true
+  },
+  {
+    "file_date": "2019-01-30",
+    "end_date": "2018-12-31",
+    "shares": 0.427194,
+    "value": 6685630,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-01",
+    "end_date": "2018-12-31",
+    "shares": 0.435302,
+    "value": 6812525,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-05",
+    "end_date": "2018-12-31",
+    "shares": 0.494948,
+    "value": 7745991,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-06",
+    "end_date": "2018-12-31",
+    "shares": 0.54491,
+    "value": 8527896,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-08",
+    "end_date": "2018-12-31",
+    "shares": 0.563962,
+    "value": 8826060,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-11",
+    "end_date": "2018-12-31",
+    "shares": 0.640409,
+    "value": 10022462,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-12",
+    "end_date": "2018-12-31",
+    "shares": 1.281059,
+    "value": 20048700,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-13",
+    "end_date": "2018-12-31",
+    "shares": 1.437724,
+    "value": 22500518,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-14",
+    "end_date": "2018-12-31",
+    "shares": 3.430087,
+    "value": 53681212,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-15",
+    "end_date": "2018-12-31",
+    "shares": 3.481289,
+    "value": 54482515,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-20",
+    "end_date": "2018-12-31",
+    "shares": 3.481964,
+    "value": 54493078,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-22",
+    "end_date": "2018-12-31",
+    "shares": 3.482097,
+    "value": 54495173,
+    "done": true
+  },
+  {
+    "file_date": "2019-02-28",
+    "end_date": "2018-03-31",
+    "shares": 3.48365,
+    "value": 54519474,
+    "done": true
+  },
+  {
+    "file_date": "2019-03-06",
+    "end_date": "2018-12-31",
+    "shares": 3.48365,
+    "value": 54519474,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-02",
+    "end_date": "2019-03-31",
+    "shares": 3.483889,
+    "value": 54523214,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-04",
+    "end_date": "2019-03-31",
+    "shares": 3.484686,
+    "value": 54535681,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-05",
+    "end_date": "2019-03-31",
+    "shares": 3.484806,
+    "value": 54537559,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-08",
+    "end_date": "2019-03-31",
+    "shares": 3.486444,
+    "value": 54563203,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-09",
+    "end_date": "2019-03-31",
+    "shares": 3.498768,
+    "value": 54756071,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-10",
+    "end_date": "2019-03-31",
+    "shares": 3.511385,
+    "value": 54953522,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-11",
+    "end_date": "2019-03-31",
+    "shares": 3.515219,
+    "value": 55013536,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-12",
+    "end_date": "2019-03-31",
+    "shares": 3.516961,
+    "value": 55040784,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-15",
+    "end_date": "2019-03-31",
+    "shares": 3.517744,
+    "value": 55053046,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-16",
+    "end_date": "2019-03-31",
+    "shares": 3.522933,
+    "value": 55134250,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-17",
+    "end_date": "2019-03-31",
+    "shares": 3.54555,
+    "value": 55488218,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-18",
+    "end_date": "2019-03-31",
+    "shares": 3.547714,
+    "value": 55522079,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-19",
+    "end_date": "2019-03-31",
+    "shares": 3.548143,
+    "value": 55528787,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-22",
+    "end_date": "2019-03-31",
+    "shares": 3.557262,
+    "value": 55671500,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-23",
+    "end_date": "2019-03-31",
+    "shares": 3.561384,
+    "value": 55736016,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-24",
+    "end_date": "2019-03-31",
+    "shares": 3.574032,
+    "value": 55933952,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-25",
+    "end_date": "2019-03-31",
+    "shares": 3.574113,
+    "value": 55935223,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-26",
+    "end_date": "2019-03-31",
+    "shares": 3.580665,
+    "value": 56037761,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-29",
+    "end_date": "2019-03-31",
+    "shares": 3.602829,
+    "value": 56384633,
+    "done": true
+  },
+  {
+    "file_date": "2019-04-30",
+    "end_date": "2019-03-31",
+    "shares": 3.654617,
+    "value": 57195115,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-01",
+    "end_date": "2019-03-31",
+    "shares": 3.660494,
+    "value": 57287102,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-02",
+    "end_date": "2019-03-31",
+    "shares": 3.69836,
+    "value": 57879704,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-03",
+    "end_date": "2019-03-31",
+    "shares": 3.729504,
+    "value": 58367106,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-06",
+    "end_date": "2019-03-31",
+    "shares": 3.879586,
+    "value": 60715913,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-07",
+    "end_date": "2019-03-31",
+    "shares": 4.437303,
+    "value": 69444241,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-08",
+    "end_date": "2019-03-31",
+    "shares": 4.485313,
+    "value": 70195594,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-09",
+    "end_date": "2019-03-31",
+    "shares": 4.772181,
+    "value": 74685117,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-10",
+    "end_date": "2019-03-31",
+    "shares": 4.955892,
+    "value": 77560210,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-13",
+    "end_date": "2019-03-31",
+    "shares": 5.358486,
+    "value": 83860844,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-14",
+    "end_date": "2019-03-31",
+    "shares": 5.789874,
+    "value": 90612107,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-15",
+    "end_date": "2019-03-31",
+    "shares": 11.372441,
+    "value": 177979840,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-16",
+    "end_date": "2019-03-31",
+    "shares": 11.416114,
+    "value": 178663332,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-17",
+    "end_date": "2019-03-31",
+    "shares": 11.416183,
+    "value": 178664410,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-20",
+    "end_date": "2019-03-31",
+    "shares": 11.416252,
+    "value": 178665490,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-21",
+    "end_date": "2019-03-31",
+    "shares": 11.416978,
+    "value": 178676855,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-22",
+    "end_date": "2019-03-31",
+    "shares": 11.417891,
+    "value": 178691142,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-28",
+    "end_date": "2019-03-31",
+    "shares": 11.426452,
+    "value": 178825122,
+    "done": true
+  },
+  {
+    "file_date": "2019-05-29",
+    "end_date": "2019-03-31",
+    "shares": 11.426452,
+    "value": 178825122,
+    "done": true
+  },
+  {
+    "file_date": "2019-06-03",
+    "end_date": "2016-03-31",
+    "shares": 11.426452,
+    "value": 178825122,
+    "done": true
+  },
+  {
+    "file_date": "2019-06-19",
+    "end_date": "2019-03-31",
+    "shares": 11.426462,
+    "value": 178825277,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-01",
+    "end_date": "2019-06-30",
+    "shares": 11.426355,
+    "value": 178823601,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-08",
+    "end_date": "2019-06-30",
+    "shares": 11.426364,
+    "value": 178823746,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-09",
+    "end_date": "2019-06-30",
+    "shares": 11.426237,
+    "value": 178821745,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-10",
+    "end_date": "2019-06-30",
+    "shares": 11.426207,
+    "value": 178821287,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-11",
+    "end_date": "2019-06-30",
+    "shares": 11.431233,
+    "value": 178899938,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-12",
+    "end_date": "2019-06-30",
+    "shares": 11.429989,
+    "value": 178880467,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-15",
+    "end_date": "2019-06-30",
+    "shares": 11.430467,
+    "value": 178887950,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-16",
+    "end_date": "2019-06-30",
+    "shares": 11.431892,
+    "value": 178910258,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-17",
+    "end_date": "2019-06-30",
+    "shares": 11.418966,
+    "value": 178707953,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-18",
+    "end_date": "2019-06-30",
+    "shares": 11.418887,
+    "value": 178706718,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-19",
+    "end_date": "2019-06-30",
+    "shares": 11.418208,
+    "value": 178696093,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-22",
+    "end_date": "2019-06-30",
+    "shares": 11.418211,
+    "value": 178696139,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-23",
+    "end_date": "2019-06-30",
+    "shares": 11.416994,
+    "value": 178677091,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-24",
+    "end_date": "2019-06-30",
+    "shares": 11.41268,
+    "value": 178609583,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-25",
+    "end_date": "2019-06-30",
+    "shares": 11.413978,
+    "value": 178629904,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-26",
+    "end_date": "2019-06-30",
+    "shares": 11.415505,
+    "value": 178653794,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-29",
+    "end_date": "2019-06-30",
+    "shares": 11.415287,
+    "value": 178650384,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-30",
+    "end_date": "2019-06-30",
+    "shares": 11.27014,
+    "value": 176378813,
+    "done": true
+  },
+  {
+    "file_date": "2019-07-31",
+    "end_date": "2019-06-30",
+    "shares": 11.28051,
+    "value": 176541114,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-01",
+    "end_date": "2019-06-30",
+    "shares": 11.277001,
+    "value": 176486192,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-02",
+    "end_date": "2019-06-30",
+    "shares": 11.278244,
+    "value": 176505642,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-05",
+    "end_date": "2019-06-30",
+    "shares": 11.306958,
+    "value": 176955019,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-06",
+    "end_date": "2019-06-30",
+    "shares": 11.325292,
+    "value": 177241956,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-07",
+    "end_date": "2019-06-30",
+    "shares": 11.35256,
+    "value": 177668703,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-08",
+    "end_date": "2019-06-30",
+    "shares": 11.380752,
+    "value": 178109908,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-09",
+    "end_date": "2019-06-30",
+    "shares": 11.38479,
+    "value": 178173104,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-12",
+    "end_date": "2019-06-30",
+    "shares": 11.415637,
+    "value": 178655865,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-13",
+    "end_date": "2019-06-30",
+    "shares": 10.936474,
+    "value": 171156912,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-14",
+    "end_date": "2019-06-30",
+    "shares": 11.194168,
+    "value": 175189850,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-15",
+    "end_date": "2019-06-30",
+    "shares": 11.069304,
+    "value": 173235715,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-16",
+    "end_date": "2019-06-30",
+    "shares": 11.07639,
+    "value": 173346614,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-21",
+    "end_date": "2019-06-30",
+    "shares": 11.07639,
+    "value": 173346615,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-23",
+    "end_date": "2019-06-30",
+    "shares": 11.07639,
+    "value": 173346615,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-26",
+    "end_date": "2019-06-30",
+    "shares": 11.077307,
+    "value": 173360965,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-27",
+    "end_date": "2019-06-30",
+    "shares": 11.078276,
+    "value": 173376133,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-28",
+    "end_date": "2019-03-31",
+    "shares": 11.078276,
+    "value": 173376133,
+    "done": true
+  },
+  {
+    "file_date": "2019-08-30",
+    "end_date": "2019-06-30",
+    "shares": 11.078276,
+    "value": 173376133,
+    "done": true
+  },
+  {
+    "file_date": "2019-09-24",
+    "end_date": "2019-06-30",
+    "shares": 11.078276,
+    "value": 173376133,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-02",
+    "end_date": "2019-09-30",
+    "shares": 11.078265,
+    "value": 173375962,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-03",
+    "end_date": "2019-09-30",
+    "shares": 11.078261,
+    "value": 173375892,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-04",
+    "end_date": "2019-09-30",
+    "shares": 11.078261,
+    "value": 173375892,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-07",
+    "end_date": "2019-09-30",
+    "shares": 11.078266,
+    "value": 173375978,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-08",
+    "end_date": "2019-09-30",
+    "shares": 11.078244,
+    "value": 173375628,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-09",
+    "end_date": "2019-09-30",
+    "shares": 11.078244,
+    "value": 173375628,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-10",
+    "end_date": "2019-09-30",
+    "shares": 11.078633,
+    "value": 173381719,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-11",
+    "end_date": "2019-09-30",
+    "shares": 11.078503,
+    "value": 173379676,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-15",
+    "end_date": "2019-09-30",
+    "shares": 11.078641,
+    "value": 173381845,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-16",
+    "end_date": "2019-09-30",
+    "shares": 11.077612,
+    "value": 173365740,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-17",
+    "end_date": "2019-09-30",
+    "shares": 11.079412,
+    "value": 173393912,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-18",
+    "end_date": "2019-09-30",
+    "shares": 11.080655,
+    "value": 173413354,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-21",
+    "end_date": "2019-09-30",
+    "shares": 11.080655,
+    "value": 173413354,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-22",
+    "end_date": "2019-09-30",
+    "shares": 11.078527,
+    "value": 173380059,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-23",
+    "end_date": "2019-09-30",
+    "shares": 11.079448,
+    "value": 173394475,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-24",
+    "end_date": "2019-09-30",
+    "shares": 11.066089,
+    "value": 173185397,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-25",
+    "end_date": "2019-09-30",
+    "shares": 11.064844,
+    "value": 173165914,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-28",
+    "end_date": "2019-09-30",
+    "shares": 11.131878,
+    "value": 174214999,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-29",
+    "end_date": "2019-09-30",
+    "shares": 11.132087,
+    "value": 174218272,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-30",
+    "end_date": "2019-09-30",
+    "shares": 11.129821,
+    "value": 174182804,
+    "done": true
+  },
+  {
+    "file_date": "2019-10-31",
+    "end_date": "2019-09-30",
+    "shares": 11.130773,
+    "value": 174197703,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-01",
+    "end_date": "2019-09-30",
+    "shares": 11.131782,
+    "value": 174213509,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-04",
+    "end_date": "2019-09-30",
+    "shares": 11.171061,
+    "value": 174828228,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-05",
+    "end_date": "2019-09-30",
+    "shares": 11.171337,
+    "value": 174832549,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-06",
+    "end_date": "2019-06-30",
+    "shares": 11.185957,
+    "value": 175061347,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-07",
+    "end_date": "2019-09-30",
+    "shares": 11.208133,
+    "value": 175408410,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-08",
+    "end_date": "2019-09-30",
+    "shares": 11.204076,
+    "value": 175344912,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-12",
+    "end_date": "2019-09-30",
+    "shares": 11.182064,
+    "value": 175000426,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-13",
+    "end_date": "2019-09-30",
+    "shares": 11.208686,
+    "value": 175417060,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-14",
+    "end_date": "2019-09-30",
+    "shares": 11.080714,
+    "value": 173414281,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-15",
+    "end_date": "2019-09-30",
+    "shares": 11.06801,
+    "value": 173215465,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-18",
+    "end_date": "2019-09-30",
+    "shares": 11.068019,
+    "value": 173215610,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-19",
+    "end_date": "2019-09-30",
+    "shares": 11.068043,
+    "value": 173215973,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-20",
+    "end_date": "2019-09-30",
+    "shares": 11.068009,
+    "value": 173215449,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-21",
+    "end_date": "2019-06-30",
+    "shares": 11.06793,
+    "value": 173214218,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-22",
+    "end_date": "2019-09-30",
+    "shares": 11.06794,
+    "value": 173214363,
+    "done": true
+  },
+  {
+    "file_date": "2019-11-25",
+    "end_date": "2019-09-30",
+    "shares": 11.06794,
+    "value": 173214363,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-02",
+    "end_date": "2019-09-30",
+    "shares": 11.067933,
+    "value": 173214252,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-06",
+    "end_date": "2019-12-31",
+    "shares": 11.067933,
+    "value": 173214252,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-07",
+    "end_date": "2019-12-31",
+    "shares": 11.067733,
+    "value": 173211129,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-08",
+    "end_date": "2019-12-31",
+    "shares": 11.067733,
+    "value": 173211129,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-09",
+    "end_date": "2019-12-31",
+    "shares": 11.067732,
+    "value": 173211112,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-10",
+    "end_date": "2019-12-31",
+    "shares": 11.067732,
+    "value": 173211112,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-13",
+    "end_date": "2019-12-31",
+    "shares": 11.067758,
+    "value": 173211515,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-14",
+    "end_date": "2019-12-31",
+    "shares": 11.072165,
+    "value": 173280496,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-15",
+    "end_date": "2019-12-31",
+    "shares": 11.072165,
+    "value": 173280496,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-16",
+    "end_date": "2019-12-31",
+    "shares": 11.072165,
+    "value": 173280496,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-17",
+    "end_date": "2019-12-31",
+    "shares": 11.072118,
+    "value": 173279758,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-21",
+    "end_date": "2019-12-31",
+    "shares": 11.073288,
+    "value": 173298057,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-22",
+    "end_date": "2019-12-31",
+    "shares": 11.071239,
+    "value": 173265999,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-23",
+    "end_date": "2019-12-31",
+    "shares": 11.07118,
+    "value": 173265075,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-24",
+    "end_date": "2019-12-31",
+    "shares": 11.071281,
+    "value": 173266656,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-27",
+    "end_date": "2019-12-31",
+    "shares": 11.074423,
+    "value": 173315828,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-28",
+    "end_date": "2019-12-31",
+    "shares": 11.074509,
+    "value": 173317181,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-29",
+    "end_date": "2019-12-31",
+    "shares": 11.074424,
+    "value": 173315850,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-30",
+    "end_date": "2019-12-31",
+    "shares": 11.074344,
+    "value": 173314592,
+    "done": true
+  },
+  {
+    "file_date": "2020-01-31",
+    "end_date": "2019-12-31",
+    "shares": 11.074331,
+    "value": 173314395,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-03",
+    "end_date": "2019-12-31",
+    "shares": 11.075252,
+    "value": 173328804,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-04",
+    "end_date": "2019-12-31",
+    "shares": 11.076528,
+    "value": 173348765,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-05",
+    "end_date": "2019-12-31",
+    "shares": 11.076918,
+    "value": 173354873,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-06",
+    "end_date": "2019-12-31",
+    "shares": 11.080004,
+    "value": 173403178,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-07",
+    "end_date": "2019-12-31",
+    "shares": 11.076392,
+    "value": 173346635,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-10",
+    "end_date": "2019-12-31",
+    "shares": 11.075642,
+    "value": 173334898,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-11",
+    "end_date": "2019-12-31",
+    "shares": 11.084387,
+    "value": 173471767,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-12",
+    "end_date": "2019-12-31",
+    "shares": 11.078287,
+    "value": 173376300,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-13",
+    "end_date": "2019-12-31",
+    "shares": 10.843264,
+    "value": 169698172,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-14",
+    "end_date": "2019-12-31",
+    "shares": 10.843871,
+    "value": 169707664,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-18",
+    "end_date": "2019-12-31",
+    "shares": 10.830256,
+    "value": 169494596,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-20",
+    "end_date": "2019-12-31",
+    "shares": 10.830292,
+    "value": 169495149,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-21",
+    "end_date": "2019-12-31",
+    "shares": 10.830266,
+    "value": 169494747,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-24",
+    "end_date": "2019-12-31",
+    "shares": 10.830266,
+    "value": 169494747,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-27",
+    "end_date": "2019-12-31",
+    "shares": 10.830298,
+    "value": 169495241,
+    "done": true
+  },
+  {
+    "file_date": "2020-02-28",
+    "end_date": "2019-12-31",
+    "shares": 10.830298,
+    "value": 169495241,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-02",
+    "end_date": "2019-12-31",
+    "shares": 10.826142,
+    "value": 169430210,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-04",
+    "end_date": "2019-09-30",
+    "shares": 10.826145,
+    "value": 169430249,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-11",
+    "end_date": "2019-12-31",
+    "shares": 10.826145,
+    "value": 169430249,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-18",
+    "end_date": "2019-12-31",
+    "shares": 10.826145,
+    "value": 169430249,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-19",
+    "end_date": "2019-12-31",
+    "shares": 10.826262,
+    "value": 169432082,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-23",
+    "end_date": "2019-09-30",
+    "shares": 10.826276,
+    "value": 169432298,
+    "done": true
+  },
+  {
+    "file_date": "2020-03-26",
+    "end_date": "2019-12-31",
+    "shares": 10.826276,
+    "value": 169432298,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-01",
+    "end_date": "2019-09-30",
+    "shares": 10.826276,
+    "value": 169432298,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-02",
+    "end_date": "2020-03-31",
+    "shares": 10.826257,
+    "value": 169432007,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-06",
+    "end_date": "2020-03-31",
+    "shares": 10.826172,
+    "value": 169430678,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-07",
+    "end_date": "2020-03-31",
+    "shares": 10.826172,
+    "value": 169430678,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-08",
+    "end_date": "2020-03-31",
+    "shares": 10.826182,
+    "value": 169430833,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-09",
+    "end_date": "2020-03-31",
+    "shares": 10.827304,
+    "value": 169448392,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-10",
+    "end_date": "2020-03-31",
+    "shares": 10.827304,
+    "value": 169448392,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-13",
+    "end_date": "2020-03-31",
+    "shares": 10.827418,
+    "value": 169450181,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-14",
+    "end_date": "2020-03-31",
+    "shares": 10.848106,
+    "value": 169773940,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-15",
+    "end_date": "2020-03-31",
+    "shares": 10.848145,
+    "value": 169774551,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-16",
+    "end_date": "2020-03-31",
+    "shares": 10.848205,
+    "value": 169775495,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-17",
+    "end_date": "2020-03-31",
+    "shares": 10.848421,
+    "value": 169778870,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-20",
+    "end_date": "2020-03-31",
+    "shares": 10.848195,
+    "value": 169775336,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-21",
+    "end_date": "2020-03-31",
+    "shares": 10.860033,
+    "value": 169960600,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-22",
+    "end_date": "2020-03-31",
+    "shares": 10.859909,
+    "value": 169958656,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-23",
+    "end_date": "2020-03-31",
+    "shares": 10.864048,
+    "value": 170023440,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-24",
+    "end_date": "2020-03-31",
+    "shares": 10.863784,
+    "value": 170019300,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-27",
+    "end_date": "2020-03-31",
+    "shares": 10.867077,
+    "value": 170070849,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-28",
+    "end_date": "2020-03-31",
+    "shares": 10.882389,
+    "value": 170310469,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-29",
+    "end_date": "2020-03-31",
+    "shares": 10.883481,
+    "value": 170327569,
+    "done": true
+  },
+  {
+    "file_date": "2020-04-30",
+    "end_date": "2020-03-31",
+    "shares": 10.887258,
+    "value": 170386669,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-01",
+    "end_date": "2020-03-31",
+    "shares": 10.887592,
+    "value": 170391896,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-04",
+    "end_date": "2020-03-31",
+    "shares": 10.885518,
+    "value": 170359452,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-05",
+    "end_date": "2020-03-31",
+    "shares": 10.875474,
+    "value": 170202262,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-06",
+    "end_date": "2020-03-31",
+    "shares": 10.837642,
+    "value": 169610185,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-07",
+    "end_date": "2020-03-31",
+    "shares": 10.845882,
+    "value": 169739134,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-08",
+    "end_date": "2020-03-31",
+    "shares": 10.842948,
+    "value": 169693220,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-11",
+    "end_date": "2020-03-31",
+    "shares": 10.842265,
+    "value": 169682535,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-12",
+    "end_date": "2020-03-31",
+    "shares": 10.907049,
+    "value": 170696415,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-13",
+    "end_date": "2020-03-31",
+    "shares": 10.906516,
+    "value": 170688061,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-14",
+    "end_date": "2020-03-31",
+    "shares": 11.101415,
+    "value": 173738256,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-15",
+    "end_date": "2020-03-31",
+    "shares": 10.439251,
+    "value": 163375328,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-18",
+    "end_date": "2020-03-31",
+    "shares": 10.444825,
+    "value": 163462552,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-19",
+    "end_date": "2019-12-31",
+    "shares": 10.444831,
+    "value": 163462650,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-20",
+    "end_date": "2020-03-31",
+    "shares": 10.444831,
+    "value": 163462650,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-21",
+    "end_date": "2020-03-31",
+    "shares": 10.445048,
+    "value": 163466045,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-22",
+    "end_date": "2020-03-31",
+    "shares": 10.444795,
+    "value": 163462088,
+    "done": true
+  },
+  {
+    "file_date": "2020-05-26",
+    "end_date": "2020-03-31",
+    "shares": 10.444795,
+    "value": 163462088,
+    "done": true
+  },
+  {
+    "file_date": "2020-06-02",
+    "end_date": "2020-03-31",
+    "shares": 10.444931,
+    "value": 163464215,
+    "done": true
+  },
+  {
+    "file_date": "2020-06-05",
+    "end_date": "2020-03-31",
+    "shares": 10.444931,
+    "value": 163464215,
+    "done": true
+  },
+  {
+    "file_date": "2020-06-11",
+    "end_date": "2020-03-31",
+    "shares": 10.442273,
+    "value": 163422613,
+    "done": true
+  },
+  {
+    "file_date": "2020-06-16",
+    "end_date": "2020-03-31",
+    "shares": 10.442273,
+    "value": 163422613,
+    "done": true
+  },
+  {
+    "file_date": "2020-06-19",
+    "end_date": "2020-03-31",
+    "shares": 10.442273,
+    "value": 163422613,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-01",
+    "end_date": "2020-03-31",
+    "shares": 10.367005,
+    "value": 163422362,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-06",
+    "end_date": "2020-06-30",
+    "shares": 10.367195,
+    "value": 163425352,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-07",
+    "end_date": "2020-06-30",
+    "shares": 10.367218,
+    "value": 163425716,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-08",
+    "end_date": "2020-06-30",
+    "shares": 10.421028,
+    "value": 164273957,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-09",
+    "end_date": "2020-06-30",
+    "shares": 10.421022,
+    "value": 164273871,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-10",
+    "end_date": "2020-06-30",
+    "shares": 10.42087,
+    "value": 164271465,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-13",
+    "end_date": "2020-06-30",
+    "shares": 10.420214,
+    "value": 164261132,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-15",
+    "end_date": "2020-06-30",
+    "shares": 10.420214,
+    "value": 164261132,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-16",
+    "end_date": "2020-06-30",
+    "shares": 10.420319,
+    "value": 164262776,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-17",
+    "end_date": "2020-06-30",
+    "shares": 10.421788,
+    "value": 164285939,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-20",
+    "end_date": "2020-06-30",
+    "shares": 10.421839,
+    "value": 164286749,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-21",
+    "end_date": "2020-06-30",
+    "shares": 10.421839,
+    "value": 164286749,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-22",
+    "end_date": "2020-06-30",
+    "shares": 10.419028,
+    "value": 164242431,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-23",
+    "end_date": "2020-06-30",
+    "shares": 10.418796,
+    "value": 164238779,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-24",
+    "end_date": "2020-06-30",
+    "shares": 10.411081,
+    "value": 164117154,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-27",
+    "end_date": "2020-06-30",
+    "shares": 10.411918,
+    "value": 164130348,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-28",
+    "end_date": "2020-06-30",
+    "shares": 10.400959,
+    "value": 163957604,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-29",
+    "end_date": "2020-06-30",
+    "shares": 10.400782,
+    "value": 163954800,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-30",
+    "end_date": "2020-06-30",
+    "shares": 10.40035,
+    "value": 163947993,
+    "done": true
+  },
+  {
+    "file_date": "2020-07-31",
+    "end_date": "2020-06-30",
+    "shares": 10.402807,
+    "value": 163986731,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-03",
+    "end_date": "2020-06-30",
+    "shares": 10.402807,
+    "value": 163986731,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-04",
+    "end_date": "2020-06-30",
+    "shares": 10.402995,
+    "value": 163989687,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-05",
+    "end_date": "2020-06-30",
+    "shares": 10.403013,
+    "value": 163989977,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-06",
+    "end_date": "2020-06-30",
+    "shares": 10.403206,
+    "value": 163993016,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-07",
+    "end_date": "2020-06-30",
+    "shares": 10.396929,
+    "value": 163894077,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-10",
+    "end_date": "2020-06-30",
+    "shares": 10.387996,
+    "value": 163753258,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-11",
+    "end_date": "2020-06-30",
+    "shares": 10.345779,
+    "value": 163087759,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-12",
+    "end_date": "2020-06-30",
+    "shares": 10.384802,
+    "value": 163702910,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-13",
+    "end_date": "2020-06-30",
+    "shares": 10.592899,
+    "value": 166983279,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-14",
+    "end_date": "2020-06-30",
+    "shares": 10.174798,
+    "value": 160392465,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-17",
+    "end_date": "2020-06-30",
+    "shares": 10.175238,
+    "value": 160399406,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-19",
+    "end_date": "2020-06-30",
+    "shares": 10.175217,
+    "value": 160399065,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-20",
+    "end_date": "2020-06-30",
+    "shares": 10.175217,
+    "value": 160399065,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-24",
+    "end_date": "2020-06-30",
+    "shares": 10.175191,
+    "value": 160398655,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-26",
+    "end_date": "2020-06-30",
+    "shares": 10.175146,
+    "value": 160397943,
+    "done": true
+  },
+  {
+    "file_date": "2020-08-28",
+    "end_date": "2020-06-30",
+    "shares": 10.174788,
+    "value": 160392307,
+    "done": true
+  },
+  {
+    "file_date": "2020-09-11",
+    "end_date": "2020-06-30",
+    "shares": 10.174782,
+    "value": 160392208,
+    "done": true
+  },
+  {
+    "file_date": "2020-09-15",
+    "end_date": "2020-06-30",
+    "shares": 10.174782,
+    "value": 160392208,
+    "done": true
+  },
+  {
+    "file_date": "2020-09-28",
+    "end_date": "2020-06-30",
+    "shares": 10.174782,
+    "value": 160392208,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-01",
+    "end_date": "2020-09-30",
+    "shares": 10.174782,
+    "value": 160392208,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-06",
+    "end_date": "2020-09-30",
+    "shares": 10.174766,
+    "value": 160391951,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-07",
+    "end_date": "2020-09-30",
+    "shares": 10.174766,
+    "value": 160391951,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-08",
+    "end_date": "2020-09-30",
+    "shares": 10.183969,
+    "value": 160537033,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-09",
+    "end_date": "2020-09-30",
+    "shares": 10.186092,
+    "value": 160570493,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-13",
+    "end_date": "2020-09-30",
+    "shares": 10.186078,
+    "value": 160570276,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-14",
+    "end_date": "2020-09-30",
+    "shares": 10.186187,
+    "value": 160571994,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-15",
+    "end_date": "2020-09-30",
+    "shares": 10.185725,
+    "value": 160564714,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-16",
+    "end_date": "2020-09-30",
+    "shares": 10.185726,
+    "value": 160564724,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-19",
+    "end_date": "2020-09-30",
+    "shares": 10.171034,
+    "value": 160333126,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-20",
+    "end_date": "2020-09-30",
+    "shares": 10.172557,
+    "value": 160357141,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-21",
+    "end_date": "2020-09-30",
+    "shares": 10.172493,
+    "value": 160356135,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-22",
+    "end_date": "2020-09-30",
+    "shares": 10.172445,
+    "value": 160355371,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-23",
+    "end_date": "2020-09-30",
+    "shares": 10.168571,
+    "value": 160294306,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-26",
+    "end_date": "2020-09-30",
+    "shares": 10.169275,
+    "value": 160305403,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-27",
+    "end_date": "2020-09-30",
+    "shares": 10.169797,
+    "value": 160313636,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-28",
+    "end_date": "2020-09-30",
+    "shares": 10.169823,
+    "value": 160314042,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-29",
+    "end_date": "2020-09-30",
+    "shares": 10.114839,
+    "value": 159447290,
+    "done": true
+  },
+  {
+    "file_date": "2020-10-30",
+    "end_date": "2020-09-30",
+    "shares": 10.186711,
+    "value": 160580256,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-02",
+    "end_date": "2020-09-30",
+    "shares": 10.185098,
+    "value": 160554831,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-03",
+    "end_date": "2020-09-30",
+    "shares": 10.185199,
+    "value": 160556415,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-04",
+    "end_date": "2020-09-30",
+    "shares": 10.18929,
+    "value": 160620917,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-05",
+    "end_date": "2020-09-30",
+    "shares": 10.20428,
+    "value": 160857206,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-06",
+    "end_date": "2020-09-30",
+    "shares": 10.213607,
+    "value": 161004238,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-09",
+    "end_date": "2020-09-30",
+    "shares": 10.216725,
+    "value": 161053393,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-10",
+    "end_date": "2020-09-30",
+    "shares": 10.198981,
+    "value": 160773672,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-12",
+    "end_date": "2020-09-30",
+    "shares": 10.224039,
+    "value": 161168682,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-13",
+    "end_date": "2020-09-30",
+    "shares": 10.194988,
+    "value": 160710728,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-16",
+    "end_date": "2020-09-30",
+    "shares": 10.067525,
+    "value": 158701449,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-17",
+    "end_date": "2020-09-30",
+    "shares": 10.058022,
+    "value": 158551646,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-18",
+    "end_date": "2019-12-31",
+    "shares": 10.058036,
+    "value": 158551866,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-19",
+    "end_date": "2020-09-30",
+    "shares": 10.058571,
+    "value": 158560300,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-20",
+    "end_date": "2020-06-30",
+    "shares": 10.058384,
+    "value": 158557350,
+    "done": true
+  },
+  {
+    "file_date": "2020-11-30",
+    "end_date": "2020-09-30",
+    "shares": 10.058372,
+    "value": 158557154,
+    "done": true
+  },
+  {
+    "file_date": "2020-12-04",
+    "end_date": "2020-09-30",
+    "shares": 10.053872,
+    "value": 158486225,
+    "done": true
+  },
+  {
+    "file_date": "2020-12-10",
+    "end_date": "2020-09-30",
+    "shares": 10.054086,
+    "value": 158489600,
+    "done": true
+  },
+  {
+    "file_date": "2020-12-16",
+    "end_date": "2020-09-30",
+    "shares": 10.053782,
+    "value": 158484797,
+    "done": true
+  },
+  {
+    "file_date": "2020-12-21",
+    "end_date": "2020-09-30",
+    "shares": 10.053782,
+    "value": 158484797,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-05",
+    "end_date": "2020-12-31",
+    "shares": 10.05375,
+    "value": 158484294,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-08",
+    "end_date": "2020-12-31",
+    "shares": 10.05375,
+    "value": 158484294,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-11",
+    "end_date": "2020-12-31",
+    "shares": 10.05375,
+    "value": 158484294,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-12",
+    "end_date": "2020-12-31",
+    "shares": 10.053731,
+    "value": 158483997,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-13",
+    "end_date": "2020-12-31",
+    "shares": 10.05372,
+    "value": 158483833,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-14",
+    "end_date": "2020-12-31",
+    "shares": 10.05393,
+    "value": 158487129,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-15",
+    "end_date": "2020-12-31",
+    "shares": 10.054103,
+    "value": 158489862,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-19",
+    "end_date": "2020-12-31",
+    "shares": 10.054022,
+    "value": 158488594,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-20",
+    "end_date": "2020-12-31",
+    "shares": 10.062207,
+    "value": 158617614,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-21",
+    "end_date": "2020-12-31",
+    "shares": 10.063177,
+    "value": 158632896,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-22",
+    "end_date": "2020-12-31",
+    "shares": 10.061151,
+    "value": 158600971,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-25",
+    "end_date": "2020-12-31",
+    "shares": 10.017368,
+    "value": 157910785,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-26",
+    "end_date": "2020-12-31",
+    "shares": 10.018187,
+    "value": 157923690,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-27",
+    "end_date": "2020-12-31",
+    "shares": 10.018242,
+    "value": 157924563,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-28",
+    "end_date": "2020-12-31",
+    "shares": 10.019144,
+    "value": 157938788,
+    "done": true
+  },
+  {
+    "file_date": "2021-01-29",
+    "end_date": "2020-12-31",
+    "shares": 10.018785,
+    "value": 157933117,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-01",
+    "end_date": "2020-12-31",
+    "shares": 10.019023,
+    "value": 157936867,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-02",
+    "end_date": "2020-12-31",
+    "shares": 10.023099,
+    "value": 158001131,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-03",
+    "end_date": "2020-12-31",
+    "shares": 9.994045,
+    "value": 157543133,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-04",
+    "end_date": "2020-12-31",
+    "shares": 9.994896,
+    "value": 157556542,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-05",
+    "end_date": "2020-12-31",
+    "shares": 9.983281,
+    "value": 157373443,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-08",
+    "end_date": "2020-12-31",
+    "shares": 9.987052,
+    "value": 157432897,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-09",
+    "end_date": "2020-12-31",
+    "shares": 10.056041,
+    "value": 158520410,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-10",
+    "end_date": "2020-12-31",
+    "shares": 9.969883,
+    "value": 157162243,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-11",
+    "end_date": "2020-12-31",
+    "shares": 9.939896,
+    "value": 156689543,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-12",
+    "end_date": "2020-12-31",
+    "shares": 10.417794,
+    "value": 164222972,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-16",
+    "end_date": "2020-12-31",
+    "shares": 10.410936,
+    "value": 164114875,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-17",
+    "end_date": "2020-12-31",
+    "shares": 10.424069,
+    "value": 164321891,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-18",
+    "end_date": "2020-12-31",
+    "shares": 10.423204,
+    "value": 164308255,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-19",
+    "end_date": "2020-12-31",
+    "shares": 10.423204,
+    "value": 164308255,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-24",
+    "end_date": "2020-12-31",
+    "shares": 10.423204,
+    "value": 164308255,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-25",
+    "end_date": "2020-12-31",
+    "shares": 10.423204,
+    "value": 164308255,
+    "done": true
+  },
+  {
+    "file_date": "2021-02-26",
+    "end_date": "2020-12-31",
+    "shares": 10.423214,
+    "value": 164308416,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-02",
+    "end_date": "2020-12-31",
+    "shares": 10.42324,
+    "value": 164308826,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-04",
+    "end_date": "2020-12-31",
+    "shares": 10.42324,
+    "value": 164308826,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-08",
+    "end_date": "2020-12-31",
+    "shares": 10.42324,
+    "value": 164308826,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-09",
+    "end_date": "2020-12-31",
+    "shares": 10.423249,
+    "value": 164308963,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-10",
+    "end_date": "2020-12-31",
+    "shares": 10.423249,
+    "value": 164308963,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-16",
+    "end_date": "2019-06-30",
+    "shares": 10.423923,
+    "value": 164319602,
+    "done": true
+  },
+  {
+    "file_date": "2021-03-26",
+    "end_date": "2020-12-31",
+    "shares": 10.423923,
+    "value": 164319602,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-01",
+    "end_date": "2020-12-31",
+    "shares": 10.42505,
+    "value": 164337365,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-05",
+    "end_date": "2021-03-31",
+    "shares": 10.424594,
+    "value": 164330180,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-06",
+    "end_date": "2021-03-31",
+    "shares": 10.424594,
+    "value": 164330180,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-08",
+    "end_date": "2021-03-31",
+    "shares": 10.424594,
+    "value": 164330180,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-09",
+    "end_date": "2021-03-31",
+    "shares": 10.424594,
+    "value": 164330180,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-12",
+    "end_date": "2021-03-31",
+    "shares": 10.427747,
+    "value": 164379872,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-14",
+    "end_date": "2021-03-31",
+    "shares": 10.433322,
+    "value": 164467757,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-15",
+    "end_date": "2021-03-31",
+    "shares": 10.432807,
+    "value": 164459642,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-16",
+    "end_date": "2021-03-31",
+    "shares": 10.433646,
+    "value": 164472870,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-19",
+    "end_date": "2020-12-31",
+    "shares": 10.435919,
+    "value": 164508693,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-20",
+    "end_date": "2021-03-31",
+    "shares": 10.43613,
+    "value": 164512024,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-21",
+    "end_date": "2021-03-31",
+    "shares": 10.43613,
+    "value": 164512024,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-22",
+    "end_date": "2021-03-31",
+    "shares": 10.436864,
+    "value": 164523600,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-23",
+    "end_date": "2021-03-31",
+    "shares": 10.436801,
+    "value": 164522600,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-26",
+    "end_date": "2021-03-31",
+    "shares": 10.437823,
+    "value": 164538706,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-27",
+    "end_date": "2021-03-31",
+    "shares": 10.437823,
+    "value": 164538706,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-28",
+    "end_date": "2021-03-31",
+    "shares": 10.438698,
+    "value": 164552510,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-29",
+    "end_date": "2021-03-31",
+    "shares": 10.442067,
+    "value": 164605605,
+    "done": true
+  },
+  {
+    "file_date": "2021-04-30",
+    "end_date": "2021-03-31",
+    "shares": 10.442555,
+    "value": 164613304,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-03",
+    "end_date": "2021-03-31",
+    "shares": 10.443052,
+    "value": 164621134,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-04",
+    "end_date": "2021-03-31",
+    "shares": 10.446876,
+    "value": 164681415,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-05",
+    "end_date": "2021-03-31",
+    "shares": 10.459106,
+    "value": 164874216,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-06",
+    "end_date": "2021-03-31",
+    "shares": 10.45927,
+    "value": 164876793,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-07",
+    "end_date": "2021-03-31",
+    "shares": 10.542826,
+    "value": 166193939,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-10",
+    "end_date": "2021-03-31",
+    "shares": 10.561165,
+    "value": 166483035,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-11",
+    "end_date": "2021-03-31",
+    "shares": 10.554579,
+    "value": 166379212,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-12",
+    "end_date": "2021-03-31",
+    "shares": 10.594937,
+    "value": 167015412,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-13",
+    "end_date": "2021-03-31",
+    "shares": 11.130841,
+    "value": 175463237,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-14",
+    "end_date": "2021-03-31",
+    "shares": 11.18768,
+    "value": 176359234,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-17",
+    "end_date": "2021-03-31",
+    "shares": 10.661268,
+    "value": 168061037,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-18",
+    "end_date": "2021-03-31",
+    "shares": 10.666706,
+    "value": 168146757,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-19",
+    "end_date": "2020-12-31",
+    "shares": 10.667218,
+    "value": 168154820,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-21",
+    "end_date": "2021-03-31",
+    "shares": 10.667325,
+    "value": 168156508,
+    "done": true
+  },
+  {
+    "file_date": "2021-05-28",
+    "end_date": "2021-03-31",
+    "shares": 10.667327,
+    "value": 168156539,
+    "done": true
+  },
+  {
+    "file_date": "2021-06-01",
+    "end_date": "2021-03-31",
+    "shares": 10.667491,
+    "value": 168159128,
+    "done": true
+  },
+  {
+    "file_date": "2021-06-15",
+    "end_date": "2021-03-31",
+    "shares": 10.667491,
+    "value": 168159128,
+    "done": true
+  },
+  {
+    "file_date": "2021-06-17",
+    "end_date": "2021-03-31",
+    "shares": 10.667493,
+    "value": 168159163,
+    "done": true
+  },
+  {
+    "file_date": "2021-06-30",
+    "end_date": "2021-03-31",
+    "shares": 10.668143,
+    "value": 168171540,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-02",
+    "end_date": "2021-06-30",
+    "shares": 10.668143,
+    "value": 168171540,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-07",
+    "end_date": "2021-06-30",
+    "shares": 10.668143,
+    "value": 168171540,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-08",
+    "end_date": "2021-06-30",
+    "shares": 10.668141,
+    "value": 168171513,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-09",
+    "end_date": "2021-03-31",
+    "shares": 10.668122,
+    "value": 168171208,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-12",
+    "end_date": "2021-06-30",
+    "shares": 10.668122,
+    "value": 168171208,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-13",
+    "end_date": "2021-06-30",
+    "shares": 10.668819,
+    "value": 168182193,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-14",
+    "end_date": "2021-06-30",
+    "shares": 10.672835,
+    "value": 168245508,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-15",
+    "end_date": "2021-06-30",
+    "shares": 10.672775,
+    "value": 168244562,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-16",
+    "end_date": "2021-06-30",
+    "shares": 10.672775,
+    "value": 168244562,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-19",
+    "end_date": "2021-06-30",
+    "shares": 10.691905,
+    "value": 168546116,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-20",
+    "end_date": "2021-03-31",
+    "shares": 10.69113,
+    "value": 168533900,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-21",
+    "end_date": "2021-06-30",
+    "shares": 10.692798,
+    "value": 168560194,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-22",
+    "end_date": "2021-06-30",
+    "shares": 10.693432,
+    "value": 168570199,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-23",
+    "end_date": "2021-06-30",
+    "shares": 10.693978,
+    "value": 168578799,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-26",
+    "end_date": "2021-06-30",
+    "shares": 10.693907,
+    "value": 168577686,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-27",
+    "end_date": "2021-06-30",
+    "shares": 10.69383,
+    "value": 168576466,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-28",
+    "end_date": "2021-06-30",
+    "shares": 10.693771,
+    "value": 168575540,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-29",
+    "end_date": "2021-06-30",
+    "shares": 10.695558,
+    "value": 168603702,
+    "done": true
+  },
+  {
+    "file_date": "2021-07-30",
+    "end_date": "2021-06-30",
+    "shares": 10.708459,
+    "value": 168807074,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-02",
+    "end_date": "2021-06-30",
+    "shares": 10.706278,
+    "value": 168772702,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-03",
+    "end_date": "2021-06-30",
+    "shares": 10.711702,
+    "value": 168858195,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-04",
+    "end_date": "2021-06-30",
+    "shares": 10.732254,
+    "value": 169182177,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-05",
+    "end_date": "2021-06-30",
+    "shares": 10.524789,
+    "value": 165911716,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-06",
+    "end_date": "2021-06-30",
+    "shares": 10.530453,
+    "value": 166001011,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-09",
+    "end_date": "2021-06-30",
+    "shares": 10.531736,
+    "value": 166021232,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-10",
+    "end_date": "2021-06-30",
+    "shares": 10.551369,
+    "value": 166330721,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-11",
+    "end_date": "2021-06-30",
+    "shares": 10.580436,
+    "value": 166788932,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-12",
+    "end_date": "2021-06-30",
+    "shares": 10.585814,
+    "value": 166873718,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-13",
+    "end_date": "2021-06-30",
+    "shares": 10.486939,
+    "value": 165315065,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-16",
+    "end_date": "2021-06-30",
+    "shares": 10.026891,
+    "value": 158062903,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-17",
+    "end_date": "2021-03-31",
+    "shares": 10.026877,
+    "value": 158062681,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-19",
+    "end_date": "2021-06-30",
+    "shares": 10.026877,
+    "value": 158062681,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-23",
+    "end_date": "2021-06-30",
+    "shares": 10.026828,
+    "value": 158061914,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-25",
+    "end_date": "2021-06-30",
+    "shares": 10.026828,
+    "value": 158061914,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-26",
+    "end_date": "2020-12-31",
+    "shares": 10.010122,
+    "value": 157798555,
+    "done": true
+  },
+  {
+    "file_date": "2021-08-27",
+    "end_date": "2021-03-31",
+    "shares": 10.012735,
+    "value": 157839751,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-01",
+    "end_date": "2020-09-30",
+    "shares": 10.013454,
+    "value": 157851086,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-02",
+    "end_date": "2019-03-31",
+    "shares": 10.013454,
+    "value": 157851086,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-03",
+    "end_date": "2021-06-30",
+    "shares": 10.013454,
+    "value": 157851086,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-07",
+    "end_date": "2020-09-30",
+    "shares": 10.013621,
+    "value": 157853714,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-13",
+    "end_date": "2021-06-30",
+    "shares": 10.013697,
+    "value": 157854915,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-14",
+    "end_date": "2019-06-30",
+    "shares": 10.013621,
+    "value": 157853714,
+    "done": true
+  },
+  {
+    "file_date": "2021-09-15",
+    "end_date": "2020-03-31",
+    "shares": 10.013621,
+    "value": 157853714,
+    "done": true
+  }
+]

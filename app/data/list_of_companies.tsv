@@ -1,0 +1,252 @@
+	Name	Ticker
+0	GlaxoSmithKline	GSK
+1	Eli Lilly and Company	LLY
+2	AstraZeneca	AZN
+3	NeuroPace	NPCE
+4	Prelude Therapeutics	PRLD
+5	Landos Biopharma	LABP
+6	argenx	ARGX
+7	Amgen	AMGN
+8	Takeda	TAK
+9	Arrowhead Pharmaceuticals	ARWR
+10	Pfizer	PFE
+11	Novo Nordisk A/S	NVO
+12	BioNTech SE	BNTX
+13	Supernus Pharmaceuticals	SUPN
+14	Vaccinex	VCNX
+15	Regeneron Pharmaceuticals	REGN
+16	Bristol-Myers Squibb	BMY
+17	AbbVie	ABBV
+18	Sanofi	SNY
+19	Inspire Medical Systems	INSP
+20	IDEAYA Biosciences	IDYA
+21	Tarsus Pharmaceuticals	TARS
+22	Metacrine	MTCR
+23	Arcus Biosciences	RCUS
+24	Magenta Therapeutics	MGTA
+25	CNS Pharmaceuticals	CNSP
+26	Mereo BioPharma	MREO
+27	CASI Pharmaceuticals	CASI
+28	C4 Therapeutics	CCCC
+29	Cerecor	CERC
+30	Ocular Therapeutix	OCUL
+31	Gilead Sciences	GILD
+32	Arcutis Biotherapeutics	ARQT
+33	MEI Pharma	MEIP
+34	Pulse Biosciences	PLSE
+35	BeiGene	BGNE
+36	Ionis Pharmaceuticals	IONS
+37	Biogen	BIIB
+38	Exelixis	EXEL
+39	Rhythm Pharmaceuticals	RYTM
+40	Kronos Bio	KRON
+41	Turning Point	TPB
+42	Theratechnologies	THTX
+43	Galapagos NV	GLPG
+44	Reata Pharmaceuticals	RETA
+45	Calithera Biosciences	CALA
+46	Checkmate Pharmaceuticals	CMPI
+47	Can-Fite BioPharma	CANF
+48	Seagen	SGEN
+49	Allogene Therapeutics	ALLO
+50	AlloVir	ALVR
+51	Synthetic Biologics	SYN
+52	Gemini Therapeutics	GMTX
+53	Arena Pharmaceuticals	ARNA
+54	Clovis Oncology	CLVS
+55	Ocuphire Pharma	OCUP
+56	Jounce Therapeutics	JNCE
+57	Sio Gene Therapies	SIOX
+58	Arcturus Therapeutics	ARCT
+59	Mirum Pharmaceuticals	MIRM
+60	Lexicon Pharmaceuticals	LXRX
+61	Emergent BioSolutions	EBS
+62	Alexion Pharmaceuticals	ALXN
+63	Karuna Therapeutics	KRTX
+64	GW Pharmaceuticals	GWPH
+65	Eyenovia	EYEN
+66	Acutus Medical	AFIB
+67	Annexon	ANNX
+68	Vanda Pharmaceuticals	VNDA
+69	Bellicum Pharmaceuticals	BLCM
+70	Precision BioSciences	DTIL
+71	Monopar Therapeutics	MNPR
+72	Assembly Biosciences	ASMB
+73	Organogenesis	ORGO
+74	FibroGen	FGEN
+75	Fate Therapeutics	FATE
+76	Rigel Pharmaceuticals	RIGL
+77	Sarepta Therapeutics	SRPT
+78	Clearside Biomedical	CLSD
+79	Verastem	VSTM
+80	Protagonist Therapeutics	PTGX
+81	Allakos	ALLK
+82	CymaBay Therapeutics	CBAY
+83	Aerie Pharmaceuticals	AERI
+84	FSD Pharma	HUGE
+85	Oramed	ORMP
+86	TransMedics	TMDX
+87	Lumos Pharma	LUMO
+88	Enlivex Therapeutics	ENLV
+89	Novavax	NVAX
+90	Beyond Air	XAIR
+91	Constellation Pharmaceuticals	CNST
+92	Sage Therapeutics	SAGE
+93	Intellia Therapeutics	NTLA
+94	ResMed	RMD
+95	Armata Pharmaceuticals	ARMP
+96	CytomX Therapeutics	CTMX
+97	Genocea Biosciences	GNCA
+98	Fulcrum Therapeutics	FULC
+99	PMV Pharmaceuticals	PMVP
+100	NGM Biopharmaceuticals	NGM
+101	Denali Therapeutics	DNLI
+102	PTC Therapeutics	PTCT
+103	Acceleron Pharma	XLRN
+104	Achieve Life Sciences	ACHV
+105	TFF Pharmaceuticals	TFFP
+106	Forma Therapeutics	FMTX
+107	Intuitive Surgical	ISRG
+108	Apellis Pharmaceuticals	APLS
+109	Chimerix	CMRX
+110	Alnylam Pharmaceuticals	ALNY
+111	Pliant Therapeutics	PLRX
+112	Y-mAbs Therapeutics	YMAB
+113	Sorrento Therapeutics	SRNE
+114	BioMarin Pharmaceutical	BMRN
+115	IGM Biosciences	IGMS
+116	Spero Therapeutics	SPRO
+117	Evofem	EVFM
+118	OPKO Health	OPK
+119	Ardelyx	ARDX
+120	Celldex Therapeutics	CLDX
+121	American University	NAUH
+122	Hoth Therapeutics	HOTH
+123	Spruce Biosciences	SPRB
+124	Sigilon Therapeutics	SGTX
+125	Nuvation Bio	NUVB
+126	Calliditas Therapeutics AB	CALT
+127	Unity Biotechnology	UBX
+128	Verona Pharma	VRNA
+129	Genfit	GNFT
+130	Relay Therapeutics	RLAY
+131	Rocket Pharmaceuticals	RCKT
+132	Aclaris Therapeutics	ACRS
+133	Corcept Therapeutics	CORT
+134	Caladrius Biosciences	CLBS
+135	4D Molecular Therapeutics	FDMT
+136	Outlook Therapeutics	OTLK
+137	Selecta Biosciences	SELB
+138	Vapotherm	VAPO
+139	Marker Therapeutics	MRKR
+140	Tonix Pharmaceuticals	TNXP
+141	Kaleido Biosciences	KLDO
+142	Olema Pharmaceuticals	OLMA
+143	NexImmune	NEXI
+144	Forte Biosciences	FBRX
+145	Shattuck Labs	STTK
+146	DBV Technologies	DBVT
+147	Athira Pharma	ATHA
+148	Evelo Biosciences	EVLO
+149	SIGA Technologies	SIGA
+150	Abiomed	ABMD
+151	Aptose Biosciences	APTO
+152	Galera Therapeutics	GRTX
+153	Enanta Pharmaceuticals	ENTA
+154	Milestone Pharmaceuticals	MIST
+155	Zymeworks	ZYME
+156	Ayala Pharmaceuticals	AYLA
+157	Silverback Therapeutics	SBTX
+158	Angion Biomedica	ANGN
+159	Ampio Pharmaceuticals	AMPE
+160	Evaxion Biotech A/S	EVAX
+161	Freeline Therapeutics	FRLN
+162	Kiniksa Pharmaceuticals	KNSA
+163	Anavex Life Sciences	AVXL
+164	IVERIC bio	ISEE
+165	PhaseBio Pharmaceuticals	PHAS
+166	NextCure	NXTC
+167	MediciNova	MNOV
+168	Cabaletta Bio	CABA
+169	Keros Therapeutics	KROS
+170	ALX Oncology	ALXO
+171	Vir Biotechnology	VIR
+172	aTyr Pharma	LIFE
+173	PolyPid	PYPD
+174	Adaptimmune	ADAP
+175	Satsuma Pharmaceuticals	STSA
+176	Spectrum Pharmaceuticals	SPPI
+177	Neurocrine Biosciences	NBIX
+178	Atea Pharmaceuticals	AVIR
+179	Edwards Lifesciences	EW
+180	Pluristem	PSTI
+181	Aprea Therapeutics	APRE
+182	Rubius Therapeutics	RUBY
+183	Albireo	ALBO
+184	Akebia Therapeutics	AKBA
+185	Aravive	ARAV
+186	ImmunoGen	IMGN
+187	Intra-Cellular Therapies	ITCI
+188	3M	MMM
+189	Epizyme	EPZM
+190	Viveve	VIVE
+191	Madrigal Pharmaceuticals	MDGL
+192	Larimar Therapeutics	LRMR
+193	Agios Pharmaceuticals	AGIO
+194	Paratek Pharmaceuticals	PRTK
+195	Agenus	AGEN
+196	Iovance Biotherapeutics	IOVA
+197	Jazz Pharmaceuticals	JAZZ
+198	Alkermes	ALKS
+199	Amicus Therapeutics	FOLD
+200	TG Therapeutics	TGTX
+201	Taiwan Liposome Company	TLC
+202	AVEO Pharmaceuticals	AVEO
+203	Venus Concept	VERO
+204	United Therapeutics	UTHR
+205	MacroGenics	MGNX
+206	Catalyst Biosciences	CBIO
+207	Liminal BioSciences	LMNL
+208	Syndax Pharmaceuticals	SNDX
+209	Kodiak Sciences	KOD
+210	Krystal Biotech	KRYS
+211	Kezar Life Sciences	KZR
+212	Molecular Templates	MTEM
+213	ACADIA Pharmaceuticals	ACAD
+214	Cara Therapeutics	CARA
+215	Revolution Medicines	RVMD
+216	Pulmatrix	PULM
+217	Chinook Therapeutics	KDNY
+218	Wave Life Sciences	WVE
+219	BioCryst Pharmaceuticals	BCRX
+220	Dicerna Pharmaceuticals	DRNA
+221	Allena Pharmaceuticals	ALNA
+222	Cardiff Oncology	CRDF
+223	Xenon Pharmaceuticals	XENE
+224	Crinetics Pharmaceuticals	CRNX
+225	COMPASS Pathways	CMPS
+226	Equillium	EQ
+227	Merit Medical Systems	MMSI
+228	AnaptysBio	ANAB
+229	DexCom	DXCM
+230	Savara	SVRA
+231	Hepion Pharmaceuticals	HEPA
+232	Summit Therapeutics	SMMT
+233	MediWound	MDWD
+234	Avinger	AVGR
+235	Abbott	ABT
+236	Synlogic	SYBX
+237	Sangamo Therapeutics	SGMO
+238	Moleculin Biotech	MBRX
+239	NovoCure	NVCR
+240	Atara Biotherapeutics	ATRA
+241	Checkpoint Therapeutics	CKPT
+242	VistaGen Therapeutics	VTGN
+243	Brainsway	BWAY
+244	Annovis Bio	ANVS
+245	Kamada	KMDA
+246	Onconova Therapeutics	ONTX
+247	Vaxart	VXRT
+248	Adverum Biotechnologies	ADVM
+249	EyePoint Pharmaceuticals	EYPT
+250	Radius Health	RDUS
